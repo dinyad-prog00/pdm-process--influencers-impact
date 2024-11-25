@@ -1,0 +1,1010 @@
+[
+    {
+        "topic_label": "0_heat_pump_heat pump_heating",
+        "keywords": "heat, pump, heat pump, heating, gas, ac, air, pumps, heat pumps, water",
+        "representative_docs": [
+            "You can heat up your house with a heat pump....",
+            "An AC is a heat pump!",
+            "Get a heat pump!"
+        ]
+    },
+    {
+        "topic_label": "1_kwh_use_day_per",
+        "keywords": "kwh, use, day, per, month, year, usage, consumption, kwh per, house",
+        "representative_docs": [
+            "How can you use 6,500 kWh in one month. If you drive an average of 100 miles per day, that takes less then 1,000kwh for an entire month. What do you do with 5,500 kWh? My family of 3 uses an average of 450 kWh per month",
+            "crazy energy usage 54.380 kwh per year.",
+            "You must have a huge house. Even with air conditioning i only use 1200 kwh per month. I use 700 kwh per month in the winter. I couldn't imagine using 250 kwh in a day"
+        ]
+    },
+    {
+        "topic_label": "2_solar_bill_system_cost",
+        "keywords": "solar, bill, system, cost, years, panels, solar system, month, pay, electric",
+        "representative_docs": [
+            "Your math is wrong. You're closer to 20 year return on investment. Another factor people don't often calculate into this is opportunity cost. You don't have an interest rate in your calculations so we can only assume you paid the $97,000 in full. One has to ask the question, what did I miss out on by spending 97k on solar vs a different investment. If you invested 97k in a low cost index fund and we assume that averaged 7% a year, in 20 years that would be 375k. So you essentially lost a lot of money. What killed your return on investment was your power walls. Generally speaking adding batteries to a solar system doubles the cost of your system. I'm not anti solar! I have a 6.4kW system on my house. I paid 8k for it after federal tax credit. I installed myself with he help of a company called project solar. No batteries! My ROI will be in 6 years.",
+            "There is something deeply flawed with your math. You have not saved even a penny, and only spent tens of thousands of dollars. It is your money but please do not spread misinformation that solar saves money. It doesn't. 1. A Honda Civic would cost about $40,000 in fuel over 20 years. (similar to a tesla in utility, style and function). Or, about $10,000 every five years. 2. With 3% interest your $92,000 solar system would cost over $122,000 over 20 years. Not to mention if you had $92,000 in cash you could invest it and earn much more than that. 3. An average sized US home uses 11,000 kWh or $1663.20 per year or $16,663 over 10 years. 4. From IRS: The credit is nonrefundable, so the credit amount you receive can't exceed the amount you owe in tax. You can carry forward any excess unused credit, though, and apply it to reduce the tax you owe in future years. Do not include interest paid including loan origination fees. >So, I don't know your income situation but many people would not recover the full credit for years. That means that you would be paying interest on the full cost of the system for the first year until you did your taxes and got your refund. That $122,000 solar system actually costs $162,000 with 3% interest. It is worth noting that you cannot get rates like that anymore. 5. Power company wholesale buy back would not generate enough to cover a 10 year breakeven. I don't have that information but using the rate that I get from APS in Arizona, doesn't support your hypothesis. In ten years you would have recovered at best $36,663 of your costs for electricity for your home and fuel savings for use of an electric car. Not the mention that fact that you have a car that costs MUCH more than a Honda Civic and is about the same function. The net is that you spent tens of thousands of dollars and have saved not even a single penny.",
+            "Wow, your typical monthly bill before solar was $805, which means you would have paid off the $92,000 bill in 10 years as you mentioned. However, the average household electric bill in NJ is around $200-300. If this system were installed on someone else's house, like an average NJ household, it would take them 30 years to pay off the $92,000. Considering solar cell degradation, they might need to replace their solar roof before they pay it off. If my electric bill is around $100 to $600 a month, getting this system installed would make me feel like I'm crazy or really terrible at math. Let's say in year one of using the cells, you generate around 8K KWH in May. Fast forward four years later, you may not get the same output on the hottest month. In 10 to 15 years, you might need to use both solar and the grid. After 20 years of using solar panels, you're back to square one, facing a $92k debt to repay, plus the electric bills you ran from while restarting the cycle. Solar cells are great, but they're too expensive to own at the moment. DIY is even better."
+        ]
+    },
+    {
+        "topic_label": "3_grid_company_back_sell",
+        "keywords": "grid, company, back, sell, back grid, credits, power, excess, credit, reset",
+        "representative_docs": [
+            "The electric company should pay you when you are net negative.",
+            "does the power company pay you back for giving back power to the grid with a negative net usage?",
+            "the power company should pay you."
+        ]
+    },
+    {
+        "topic_label": "4_tesla_apple_marques_video",
+        "keywords": "tesla, apple, marques, video, went, smoothly, tesla system, marques brownlee, tesla car, products",
+        "representative_docs": [
+            "I imagine the reason your Tesla installation went so smoothly is because they saw the name \"Marques Brownlee\" on the order",
+            "@@avajones97 you aren't even american! tesla is not the \"most american-made cars in the world\", ford is. go check every list on the internet, ford has more sales than tesla. and in europe, VW has more EV's sold than tesla. my credibility is the internet. just seach \"top sold car brands [year]\" and you will see. there are lists where tesla is in the third place (best case) and there are lists where tesla isn't even in the top 10",
+            "I just came here after watching the video on my Apple TV because I was wondering if Tesla treats Marques differently because they know he is a major tech influencer. Because the horror stories I have seen about Tesla solar installation and actual savings are the complete opposite of what I got from this video. Now, seeing this comment, I wonder if the \"bug\" was a feature that they do with major content providers. I'm just happy to see that Marques wrote this comment."
+        ]
+    },
+    {
+        "topic_label": "5_metering_net metering_net_meter",
+        "keywords": "metering, net metering, net, meter, grid, backwards, back, meters, power, electricity",
+        "representative_docs": [
+            "Net metering in Germany that would be great...",
+            "Net metering sounds good and all, but this will very likely disappear very soon. Here in Holland, you can do the same (energy companies have to do net metering by law). The problem is: when you take of the grid in the winter months (more expensive electricity made by coal/gas/nuclear plants), by using credit from self made solar-electricity during summer months (which is very cheap: negative prices here even during weekends), it is a burden on everyone not being able to have solar panels. This is because the law of net metering isn't a subsidiary, but a must do for energy companies. Which means, they will crank up the kWh prices to still make profit. The real problem comes now: here in Holland, 25% of households have solar panels. Let's assume (for easy math) they make as much kWh in a year as they consume (net metering to zero, just like you). They can use the credit to compenate the (higher) kWh prices, so it doesn't affect them. Everyone else pays 150% (50% more) of the price, to compensate for the people that can use the credit during the winter. When 50% of the households have panels and net meter to 0, everyone else will pay 200% (100% more). Extrapolate this to let's say 90% of households have solar panels and net meter to 0, then the 10% of people without panels will pay 10 times more than the value of that electricity should have been, only to pay for the people that can spend their net metering credits. Because, when a lot of people have solar, electricity is abundant in the summers and thus cheap, but not during the winters. Especially when more and more people switch to heat-pumps / AC for heating. The best way for long term will be batteries and v2x (vehicle to everything; you can charge your EV when you produce electricity during the day; or charge anyways because others do and it's cheap during these hours, and you can 'unload' this energy, from your car, to your house during the evening (when there's no sun and your energy consumption is higher). Batteries do basically the same as v2x, but you will see v2x very soon popping up more and more in EVs, because it saves costs on buying extra batteries. Here in Holland, we have a lot of wind and windmills, that make electricity prices low (and sometimes even negative during weekend-nights in the winter) when there is wind and demand is low. During these times, you can charge your EV/batteries very cheaply as well (or run your heat-pump / AC to pre-heat the living room for when you get out of bed). This video was amazing, I found myself diving in this rabbit hole about 1-2 years ago as well. There is so much to it, it never ends. Combine all these things with smart-home appliances (like algorithms to charge/heat when grid prices are low or cool your house with AC when your solar production is high), and you got an even bigger rabbit-hole that is still very much in its infant stage and there's a lot of communities online for DIY projects at home. Long story, but it just says how I share your enthousiasm about this subject :).",
+            "in the net metering I mean"
+        ]
+    },
+    {
+        "topic_label": "6_75_account_charge_fee",
+        "keywords": "75, account, charge, fee, grid, month, service, company, connection, connected",
+        "representative_docs": [
+            "5,75 just to have an account",
+            "$5.75 \ud83d\ude02 just to have an account \ud83d\ude05",
+            "$5.75 for account\ud83d\ude02"
+        ]
+    },
+    {
+        "topic_label": "7_video_solar_thank_great",
+        "keywords": "video, solar, thank, great, thanks, video solar, informative, love, best, videos",
+        "representative_docs": [
+            "Probably the best MKBHD video so far. My PhD was about optimization of smart grids, including smart houses with solar panels and EVs. I'm saying this because I understand how much research and effort in general was put in building up for this video. The most difficult part in this process is how to make it simple enough so that the general audience would understand most of what you're talking about. I think you did a very good job in making it as simple as it can be, although I understand that it still could be very complicated for some people with all those numbers and graphs. Overall, well done Marques! An incredible video that even professionals and researchers can find it useful.",
+            "Truly the best video on solar I've ever seen, you are amazing Marques!!! Thank you for your explanation!!!! wow!",
+            "this video is about solar panels"
+        ]
+    },
+    {
+        "topic_label": "8_roof_new roof_new_cost",
+        "keywords": "roof, new roof, new, cost, would, years, payback, subtract, need, roof would",
+        "representative_docs": [
+            "You bought a new roof that will pay for itself in 10 years. If someone builds a new house then to calculate the return on investment they should subtract the cost of a traditional roof.",
+            "How much would you've saved if you actually needed a new roof? You can subtract the cost of the actual roof tiles from the total amount too.",
+            "Part of the lengthy payoff period is likely because you replaced a relatively new roof before it was necessary. If you needed a new roof *anyway,* your effective cost would have been less the cost of a standard new roof."
+        ]
+    },
+    {
+        "topic_label": "9_tesla_roof_tesla solar_solar roof",
+        "keywords": "tesla, roof, tesla solar, solar roof, tesla roof, solar, tiles, panels, roofs, new",
+        "representative_docs": [
+            "Hey, going with the Tesla roof if building a new house or when you need to replace your current roof would save you a lot more money I think. Correct me if I'm wrong however you can deduct the price of what would have been a new roof from the total provided by Tesla as the Tesla roof is at the end of the day a roof so yeah I think this is a great solution for people needing a new roof or building a new house as this more premium solution would probably cost around the same price as some cheaper, most likely smaller solar array paired with a new roof. Great video btw!",
+            "I think he has the Tesla solar tiles, not panels.",
+            "I am one of the only 4 sales reps whos currently authorized to sell the Tesla Solar Roof in Massachusetts & New Hampshire. I love seeing the product I sell show up on one of my favorite youtubers channels. That being said, standard solar panels are far more worth it than the Tesla Solar Roof. A well producing standard system pays for itself in 5-7 years. A Tesla Solar Roof on that same home will take 10-12 years to pay for itself, when you account for utility inflation (4.9% a year) and the advancement of solar technology within that 10-12 years, the average homeowner is losing over $17,000 in savings by choosing a Tesla Solar Roof."
+        ]
+    },
+    {
+        "topic_label": "10_sustainable_green_nuclear_carbon",
+        "keywords": "sustainable, green, nuclear, carbon, energy, materials, batteries, clean, mining, environment",
+        "representative_docs": [
+            "Ohhh you after a year are excited. Come back in 5-10 years and we will talk, if I'm still around that is. Solar is an awesome supplement period. Net Zero is not even close as every single thing you have in that system is supplied by mining minerals and petroleum vehicles and plants for processing. You can either wear blinders or be truthful, remember in the end you will be judged. Now I ask every single one of you to Google search and type in Wind turbine, solar panels, and EV batteries worldwide pollution. Everything I just mentioned cannot or isn't being recycled period. The reason is toxicity and the cost of even attempting to recycle these items that all have toxic ingredients, so we bury them, is that how we deal with being clean energy? There isn't a single, person that can argue competently that Nuclear is the absolute cleanest source followed by natural gas. But as will everything in life the wisest decision which is used by nature as its foundation is Diversity! Diversity protects against anything happening and causing a catastrophe, hopefully. Everyone is Solar, and EV crazy, and right now all while we are expecting a Carrington event within the next few years. You either prepare for all or as many possible scenarios or end up like so many last civilizations. Club y'all but remember everything in life is built from A and honesty includes everything between those letters and not cherry-picking a few letters that look the best.\ud83d\ude09 oh and in parting, I was involved in this Solar push the first time around so I know what's coming. It's already started but the Governments will soon start exiting from support as sales and issues start arising leaving the companies to end up failing most likely, be catious",
+            "all energy-producing machinery must be fabricated from materials extracted from the earth. No energy system, in short, is actually \u201crenewable,\u201d since all machines require the continual mining and processing of millions of tons of primary materials and the disposal of hardware that inevitably wears out. Compared with hydrocarbons, green machines entail, on average, a 10-fold increase in the quantities of materials extracted and processed to produce the same amount of energy. For a snapshot of what all this points to regarding the total materials footprint of the green energy path, consider the supply chain for an electric car battery. A single battery providing a useful driving range weighs about 1,000 pounds. Providing the refined minerals needed to fabricate a single EV battery requires the mining, moving, and processing of more than 500,000 pounds of materials somewhere on the planet . That\u2019s 20 times more than the 25,000 pounds of petroleum that an internal combustion engine uses over the life of a car. Among the material realities of green energy: Building wind turbines and solar panels to generate electricity, as well as batteries to fuel electric vehicles, requires, on average, more than 10 times the quantity of materials, compared with building machines using hydrocarbons to deliver the same amount of energy to society. A single electric car contains more cobalt than 1,000 smartphone batteries; the blades on a single wind turbine have more plastic than 5 million smartphones; and a solar array that can power one data center uses more glass than 50 million phones. Replacing hydrocarbons with green machines under current plans\u2014never mind aspirations for far greater expansion\u2014will vastly increase the mining of various critical minerals around the world. For example, a single electric car battery weighing 1,000 pounds requires extracting and processing some 500,000 pounds of materials. Averaged over a battery\u2019s life, each mile of driving an electric car \u201cconsumes\u201d five pounds of earth. Using an internal combustion engine consumes about 0.2 pounds of liquids per mile. Oil, natural gas, and coal are needed to produce the concrete, steel, plastics, and purified minerals used to build green machines. The energy equivalent of 100 barrels of oil is used in the processes to fabricate a single battery that can store the equivalent of one barrel of oil. By 2050, with current plans, the quantity of worn-out solar panels\u2014much of it nonrecyclable\u2014will constitute double the tonnage of all today\u2019s global plastic waste, along with over 3 million tons per year of unrecyclable plastics from worn-out wind turbine blades. By 2030, more than 10 million tons per year of batteries will become garbage.",
+            "all energy-producing machinery must be fabricated from materials extracted from the earth. No energy system, in short, is actually \u201crenewable,\u201d since all machines require the continual mining and processing of millions of tons of primary materials and the disposal of hardware that inevitably wears out. Compared with hydrocarbons, green machines entail, on average, a 10-fold increase in the quantities of materials extracted and processed to produce the same amount of energy. For a snapshot of what all this points to regarding the total materials footprint of the green energy path, consider the supply chain for an electric car battery. A single battery providing a useful driving range weighs about 1,000 pounds. Providing the refined minerals needed to fabricate a single EV battery requires the mining, moving, and processing of more than 500,000 pounds of materials somewhere on the planet . That\u2019s 20 times more than the 25,000 pounds of petroleum that an internal combustion engine uses over the life of a car. Among the material realities of green energy: Building wind turbines and solar panels to generate electricity, as well as batteries to fuel electric vehicles, requires, on average, more than 10 times the quantity of materials, compared with building machines using hydrocarbons to deliver the same amount of energy to society. A single electric car contains more cobalt than 1,000 smartphone batteries; the blades on a single wind turbine have more plastic than 5 million smartphones; and a solar array that can power one data center uses more glass than 50 million phones. Replacing hydrocarbons with green machines under current plans\u2014never mind aspirations for far greater expansion\u2014will vastly increase the mining of various critical minerals around the world. For example, a single electric car battery weighing 1,000 pounds requires extracting and processing some 500,000 pounds of materials. Averaged over a battery\u2019s life, each mile of driving an electric car \u201cconsumes\u201d five pounds of earth. Using an internal combustion engine consumes about 0.2 pounds of liquids per mile. Oil, natural gas, and coal are needed to produce the concrete, steel, plastics, and purified minerals used to build green machines. The energy equivalent of 100 barrels of oil is used in the processes to fabricate a single battery that can store the equivalent of one barrel of oil. By 2050, with current plans, the quantity of worn-out solar panels\u2014much of it nonrecyclable\u2014will constitute double the tonnage of all today\u2019s global plastic waste, along with over 3 million tons per year of unrecyclable plastics from worn-out wind turbine blades. By 2030, more than 10 million tons per year of batteries will become garbage."
+        ]
+    },
+    {
+        "topic_label": "11_marques_thanks marques_video_thanks",
+        "keywords": "marques, thanks marques, video, thanks, video marques, marques marques, videos, informative, great, thank",
+        "representative_docs": [
+            "Thanks Marques",
+            "Thanks Marques!",
+            "Thanks Marques"
+        ]
+    },
+    {
+        "topic_label": "12_tesla_solar_tesla solar_panels",
+        "keywords": "tesla, solar, tesla solar, panels, system, power, energy, speaker, batteries, battery",
+        "representative_docs": [
+            "\ud83c\udfaf Key Takeaways for quick navigation: 00:00 \ud83c\udfe0 Marques Brownlee shares his experience with a Tesla Solar Roof and battery system. 01:23 \ud83d\udd0c Excess solar energy can lead to a $0 electricity bill through net metering. 03:21 \ud83c\udf1e Adding Tesla Powerwalls enables energy independence and grid disconnection. 07:11 \ud83d\udd0d Eight months to install Tesla Solar Roof and Powerwalls. 10:05 \u26a1\ufe0f Learning about energy usage: air conditioning and electric car charging are major draws. 14:19 \ud83c\udf28\ufe0f Winter affects solar generation, leading to positive grid usage. 16:47 \ud83c\udf3c Spring brings increased solar generation, achieving net-negative grid usage. 19:41 \ud83d\udcb0 Total cost of the solar setup: ~$120,948 with ~$30,000 federal tax credit. 20:09 \ud83d\udca1 Over a year, ~54 MWh of electricity used, payoff period ~10 years. 20:37 \ud83c\udf1e Payback period for solar setup: typically 6 to 10 years, beneficial in the long run. 21:34 \ud83d\udca1 Consider system coverage when choosing a solar array. 22:58 \ud83d\udd0c Net metering credits offset cloudy months, ensuring $0 electricity bill. 24:27 \ud83c\udf29\ufe0f Powerwalls provide backup during outages, reducing grid reliance. 25:22 \u2744\ufe0f Tesla Solar Roof handles snow, but heavy accumulation can slide off. 27:16 \ud83c\udf0d Solar tech advances promote sustainability and efficiency. 29:09 \ud83d\udd0b Future EV integration for home backup power and clean energy. Made with HARPA AI",
+            "- **Marques Brown explains that he hasn't paid for electricity for a year** due to the installation of solar panels on his house, combined with Tesla Powerwall batteries, which generate and store solar energy. - **His goal was to use a sustainable source of energy** to charge his electric car and power his home, while also saving money on electricity bills. - **He describes the basics of solar systems and how they work.** When the sun shines, the solar panels generate electricity for the home. Excess energy is either sent to the grid or stored in batteries for later use. - **Net metering allows for a zero-dollar electricity bill** as any excess electricity produced is sent back to the grid, creating credits. At night or during cloudy days, the system draws from these credits or from the Powerwall batteries. - **Marques used an integrated Tesla system** that includes a Tesla solar roof, Powerwall batteries, and a Tesla app that controls everything. This choice was for simplicity and seamless integration, though it was not the cheapest option. - **The installation process took eight months** from order to activation, including permits, inspections, and materials being delivered. - **His system generates 29.3 kW of solar power** and has three Powerwall 3 batteries that store 40.5 kWh of energy in total, making it a powerful system that meets his energy needs. - **During the summer, his panels produced up to 260 kWh of electricity per day,** which was enough to power his house and charge his electric car without relying on the grid. - **In the winter, he noticed significant challenges.** There were fewer daylight hours, cloudy days, and higher electricity consumption for heating and charging the electric car. - **Despite the challenges in winter,** his overall energy usage remained balanced due to credits accumulated from summer. - **He mentions interesting features of Tesla\u2019s system,** such as a storm alert that ensures the batteries are fully charged before bad weather. - **A unique phenomenon happens in winter:** snow accumulates on the roof, but because the solar roof stays slightly warmer, it melts and slides off in large sheets, which can be surprising. - **Over the year, he accumulated net metering credits,** which allowed him to maintain a $0 electricity bill despite increased winter energy use. The only fee was $5.75 monthly for having an account with the energy company. - **The system cost $93,000 after tax credits** but could take about 10 years to fully pay off through savings on electricity. He reflects that while the system is expensive, it\u2019s a long-term investment. - **Marques ends by highlighting the future potential of electric vehicles** to have bidirectional charging, allowing them to serve as backup batteries for homes, potentially further enhancing energy independence. This video offers insights into solar energy, home energy systems, and Marques\u2019 experience with Tesla\u2019s integrated solar solution.",
+            "\ud83c\udfaf Key Takeaways for quick navigation: 00:00 \ud83d\udca1 Marques Brownlee shares his experience of not paying for electricity for a year, thanks to solar panels installed on his roof and his Tesla electric car. 00:26 \ud83c\udf1e After 12 months of having solar panels, Marques can provide a comprehensive review of their performance across all four seasons. 00:54 \ud83c\udfe1 He chose solar systems to power his home and electric car as a sustainable energy solution. 01:23 \ud83d\udd0b An important part of the solar system is the batteries which store the excess energy generated during the day. 02:22 \ud83d\udcb5 Using a system called net metering, the electricity bill can be reduced to $0 as excess electricity generated by the solar panels is sent back to the grid. 03:21 \ud83d\udd04 With battery storage, it's possible to be completely independent of the grid, as the excess solar energy stored during the day can be used when the sun goes down. 04:20 \ud83c\udfe2 Marques chose Tesla's fully integrated setup, consisting of Tesla Solar Roof, Tesla Powerwalls for batteries, and the Tesla app for monitoring and control. 07:41 \ud83e\uddee The solar system installed is a 29.313 kilowatt array, with three Powerwall 3s totaling 40.5 kilowatt-hours. 14:19 \u2744\ufe0f Winter in the northeast is challenging for solar power generation due to shorter days and frequent cloud cover. 16:16 \ud83c\udf38 Spring quickly flips the situation, with excess electricity generated due to longer, sunnier days. 18:42 \ud83d\udcb0 The cost of Marques' solar setup, including all materials, labor, installation, and batteries, was around $93,000 after a federal tax credit. 19:41 \u23f3 The payoff period for this investment, calculated based on the cost of electricity saved, is an important factor in assessing the worth of the solar setup. 20:37 \u23f2\ufe0f The payback period for the solar setup is around 10 years, which aligns with the general expectation of 6 to 10 years. After this period, the panels, which are warrantied for 25 years, generate extra income. 21:34 \ud83d\udca1 Consideration was given to a less expensive solar panel array, but the coverage of the solar tiles was more beneficial. 22:31 \ud83d\udd0c The homeowner could afford to use more electricity due to the excess production from the solar setup. 23:57 \ud83d\udd0b Power outages were unnoticeable due to the backup from the solar system and Powerwalls. A storm watch feature also prepares the Powerwalls for significant storms. 25:22 \u2744\ufe0f In winter, the solar roof prevents snow accumulation by staying just above freezing, which maintains solar power generation. 26:47 \ud83d\udcb5 Despite producing all its own electricity, a monthly charge of $5.75 is still incurred for maintaining an account with the power company. 28:13 \ud83d\ude97 The future possibility of bi-directional charging, where Tesla vehicles can serve as a house's backup battery, is exciting. The current Ford F-150 Lightning already has this feature. 29:37 \ud83c\udf0d The solar setup reduces strain on the electrical grid and contributes to the use of clean, sustainable energy. Made with HARPA AI"
+        ]
+    },
+    {
+        "topic_label": "13_yeah_lol_true_ok",
+        "keywords": "yeah, lol, true, ok, right, merojeff, richardlofty, bro, agreed, reply",
+        "representative_docs": [
+            "@@merojeff Why do you keep using acronyms like a gay nerd?",
+            "@@MrBobbybrady thank you brother, I appreciate your truthful words \u2665\ufe0f I don't think I mind reading a hateful message from someone in a neighbouring country if that means I'm gonna read a message like yours from across the globe \ud83d\ude02, it's nice to see people like you!",
+            "\u200b@@RichardLoftySimply not true. Stanford researchers investigated this very question. Are you just repeating hearsay? What's the source your assertion is based on?"
+        ]
+    },
+    {
+        "topic_label": "14_thanks_informative_thank_presentation",
+        "keywords": "thanks, informative, thank, presentation, interesting, sharing, information, informative thanks, well, thanks sharing",
+        "representative_docs": [
+            "Very informative! Thanks",
+            "Very informative. Thanks.",
+            "Very informative! Thanks!"
+        ]
+    },
+    {
+        "topic_label": "15_payback_investment_years_interest",
+        "keywords": "payback, investment, years, interest, period, payback period, 100k, 10, return, 10 years",
+        "representative_docs": [
+            "You have to account for the opportunity cost of investing 100k+ of cash. Assuming average market return of ~6-7% return per year, the payback period is much, much longer.",
+            "With a 6% annual rate of return, we can calculate the future value of your $96,000 investment in a normal SIP for 25 years using compound interest formula. Assuming the interest is compounded annually, the formula is: Future Value = P * (1 + r/n)^(n*t) Where: P = Principal amount (initial investment) = $96,000 r = Annual interest rate (in decimal form) = 6% = 0.06 n = Number of times interest is compounded per year (for annual compounding, n = 1) t = Number of years = 25 Let's calculate it: Future Value = 96000 * (1 + 0.06/1)^(1*25) Future Value = 96000 * (1.06)^25 Future Value \u2248 $348,039.61 So, with a 6% annual rate of return, your $96,000 investment in a normal SIP for 25 years could potentially grow to approximately $348,039.61. Keep in mind that this is just an estimate, and actual returns may vary based on market conditions.",
+            "20:50 this payback period of 9.6 years is kind of misleading, because it does not consider the opportunity cost of spending $92k now to get about $9.6k in future yearly savings. You could have instead used that money to invest in your business on stocks. Assuming you could get 6% investing your money (discount rate), your discounted payback period would look more like 14.7 years, instead of 9.6 years."
+        ]
+    },
+    {
+        "topic_label": "16_batteries_last_battery_years",
+        "keywords": "batteries, last, battery, years, 10 years, 10, batteries last, replace, life, replacement",
+        "representative_docs": [
+            "What about battery life? Would they last 10 years?",
+            "How long will the batteries last? And how much will they cost to replace?",
+            "But will the batteries last 10+ years?"
+        ]
+    },
+    {
+        "topic_label": "17_sun_cloudy_sunny_days",
+        "keywords": "sun, cloudy, sunny, days, season, winter, live, rain, summer, seasons",
+        "representative_docs": [
+            "@CarlosAlejandro.-ke6gr I have been generating electricity from 5am to 9pm ish on good days in June in UK (sometimes doesn't get dark until around 10.30pm). However Winter is the reverse it can be as short as 9am to 3pm and it is sometimes almost dark either side of that. Still not as extreme as far north on the globe where it never gets fully dark in summer, however in winter it hardly ever gets light. I think in Rio you also get quite a bit of cloud which doesn't help, although you may correct me \ud83e\udd14",
+            "@@chrisdt2297 here it's the rain season now, it's not raining since a week, just sun or a bit cloudy...",
+            "Such systems would be perfect for a lot of places in Africa. No snow, almost always sunny, exception being those cloudy days in the rainy season."
+        ]
+    },
+    {
+        "topic_label": "18_apollo_shirt_apollo shirt_love apollo",
+        "keywords": "apollo, shirt, apollo shirt, love apollo, rip, reddit, love, shirt rip, rip apollo, shirt love",
+        "representative_docs": [
+            "the apollo shirt :(",
+            "That Apollo shirt \ud83d\ude2d",
+            "The Apollo T shirt \ud83d\ude22"
+        ]
+    },
+    {
+        "topic_label": "19_roof_solar roof_solar_roofs",
+        "keywords": "roof, solar roof, solar, roofs, solar roofs, panels, new, solar panels, roofing, video",
+        "representative_docs": [
+            "i want a solar roof",
+            "Now I want a solar roof",
+            "Our house definitely needs a new roof, and it makes sense to get a roof with solar in mind/at the same time, but the professional solar companies I\u2019ve seen ads for near me smell like a scam. I had a consultation from a company called Pink Solar. They had a kid come to my house, who tag teamed with an older guy over a zoom call, to go over my roof size, estimated generation, cost to install a roof with solar panels and a battery, and so on. They said Oh, we know the guys who can do your roof for a really good cost\u2026 it was like $6 per square foot just for the roofing. I\u2019ve talked to other roofing specialists (who don\u2019t have anything to do with solar), and they say the average in our county is $9 per square foot, plus extra when the roofs have more slope sides and valleys etc (which, with two additions, our small starter home has several). I\u2019ve been advised that you can do a roof like that\u2026 if you cut a lot of corners and get a cheap roof that won\u2019t last. Pink Solar also said they were going to do a whole eco package, with lots of insulation (maybe we could use more, but we already have some insulation), new LED lights (all our lights are smart LED\u2019s already, so that would be a downgrade), a new Nest smart thermostat (I don\u2019t want a Nest in my house, I already have an EcoBee that I like better, has no subscription fee, has remote thermometers for different rooms, and doesn\u2019t have an microphone, so again that would be a downgrade). I asked if we could save money by dropping those downgrades, they said it\u2019s part of the package and would install them all anyway. Final cost for roof, solar, battery, and smart electronics installation was going to be over $60k. After buttering me up with a fairly lengthy consultation, we took a look at my average power usage. Honestly, I forget how many KW I use, but the average bill from 12 months of data was just $55/month. As you can imagine, that\u2019s quite low\u2026 according to my electric utility, we\u2019re in the top 92% lowest power usage/most efficient for our neighborhood already. My eyes about bugged out while watching this video and seeing that MKB spends about $2000/month! Soooooooo I don\u2019t have an electric car (yet! But I did just recently get an electric scooter, and it\u2019s got just enough range for a round trip to an Aldi\u2019s grocery store, so I can get veggies and do small errands on electric), but based on 2021 numbers it would take me OVER 90 YEARS TO PAY OFF THAT SOLAR ROOF (and I don\u2019t crypto mine or anything to use electricity to make money more than I already do, occasionally filming short videos for clients in my small home studio). At that point, they wrapped up, decided for me that I wasn\u2019t going to be interested, and never contacted me again. I say they, because they USED to be known by another name, and they are no longer Pink Solar now\u2026 they\u2019ve changed names again. \ud83e\udd37\u200d\u2642 What\u2019s my takeaway? Insulation, a heat pump instead of traditional HVAC, efficient appliances, lights, and computers (I have an M2 Pro Mac Mini, cheaper than Mr Brownlee\u2019s Mac Studio, uses at max like 40W) all contribute massively to lower bills. For people who AREN\u2019T early adopters, the things I listed are cheaper and mature solutions to give you substantial savings now, plus can save you $$ if and when you do decide to spec out a solar roof some day later. With the way that some lobbyists are affecting taxes and fees, a solar roof currently DEVALUES houses in some districts, shocking and ugly imo, but make sure you do your local research. If it did raise the value of our home, it might raise the value of our modest starter home beyond what starter home buyers are willing to pay, while not being big and nice enough for more well-heeled buyers (would jump way above neighbors\u2019 houses values too). We DO still need a new roof, but Solar is kind of an impractical chicken and the egg situation, and solar will have to stay a dream for now."
+        ]
+    },
+    {
+        "topic_label": "20_grid_solar_power_energy",
+        "keywords": "grid, solar, power, energy, people, companies, government, electricity, pay, back",
+        "representative_docs": [
+            "There is one GIANT PROBLEM!!! The net zero you are achieving may be true for now, because people and governments are pushing for \"clean energy sources\". But it is not a viable solution when too many people start adopting this technology. For this reasons: If everyone produces too much electricity during the day, there is no use for it. It is simply lost. Therefore the cost from putting energy back into the grid can be omitted. When the sun shines, there is an ecess of energy anyways. Therefore it has no value. You might say, this can be solved by having large batteries in the grid. This has two problems: 1. Too expensive (people do not realize what a blessing cheap energy has been in the last 50years) 2. Doesnt solve the problem of having too litle energy for winter. We would need batteries which can store summer energy and give it back in the winter, which is definateley too expensive. You say, that any strain we take off the grid is beneficial. 29:58 NO, you are directly taking money from these large energy firms, by prioritizing solar energy over their Atomic, coal... powerplants. Therefore energy prices will rise with wider adoption of this. You do not even realize, that cheap energy is what has allowed us to have this verry device you are holding. Adittionally the large power plants jave difficulties increasing, or decreasing power output over short periods, which is exactly why solar is more of a problem.",
+            "The power company does not pay you for the delivery charge when the power is sold to them but you still pay when you use the power from the grid. This makes no sense when your major charging advantage is when you can put the power into your car or be using the power during the day so that you dont buy the power back at night and pay a delivery fee on the power you generated during the day. Whom grid tied solar does help is the power company because it when in peak usage the grid is helped with your solar power which help's the power company ease it's losses threw transmission that they experience between the power plant and your neighbor's house because the power comes from you and not threw long transmission lines and they get delivery fee's for your power that your neighbor's use. The customer of the solar does not benefit from it unless you have your own batteries, inverters, charge controllers, and generation. Grid tied solar has the most benefit at a business that can use the power right as you generate it. All the grid does at this point is keep the frequency of the power in phase with the grid and can not be used if the power goes out on the grid.",
+            "A well thought out video. So, here is my problem with solar and our government. First, I don't like our government tampering with the marketplace, punishing some and rewarding others by artificially raising the rates for some and lowering them for others. And I am no fan of taxpayers funding YOUR (not just you, but anyone's) solar programs, especially since we end up doing so by charging other customers AND borrowing money to fund it. And I despise net metering, because again, the government is tampering with the marketplace, usually with artificially high rates utilities MUST pay those who generate excessive electricity. This mean of course, OTHER ratepayers are being charged higher electric rates so YOU can get paid rates for your solar that are far more generous than they would be if you were simply providing energy. All utility companies work basically the same way, they create energy, through various sources, such as natural gas, coal, nuclear, wind or solar and they BUY excess energy from various sources though the open market. Whatever it costs to create it, they then must pay to provide it, from transmission lines to buildings, billing and wages, holidays, sick days, pensions, maternity leave, vacations, you get the picture, the costs to BRING it to you. And, they get a little profit, otherwise, it makes no sense to run the business. So, let's say the cost they pay create the electricity is 12 cents a kilowatt hour and they end up charging 24 cents a kilowatt hour for the other costs listed above. This is where net metering is unfair for other ratepayers. The government comes in and says, \"the utility MUST pay the rooftop owner 24 cents a kilowatt hour (or whatever their rate they charge others is). This makes NO SENSE, they can MAKE for 12 cents. They can BUY it from other sources at a much lower rate. How low? Big secret here, California sometimes PAYS other states to take the excess off their hands. So, a utility that can make it for 12 cents MUST now give you 24 cents a kilowatt hour, oh, but when do you get it? So, you did not USE your solar, but when you come home, you need electricity and your solar is providing nearly zero. Well, the same it true at the utility company, they are getting nearly ZERO from solar, so, they ramp up Natural Gas or coal plants. So, your net metering is paying for you to, not use \"clean energy\" sources, but the same \"dirty\" energy everyone else uses. Only problem is, the utility HAD to pay you 24 cents a KWH for it, which is an expensive source, so, everyone else gets a HIGHER BILL, because the utility must buy the expensive electricity. Make sense? Now, let me run some numbers for my house. I have a house in Northern California, it's Summer, many days are over 100 degrees California has some of the highest rates in the nation and my house is a little over 2,000 sq. feet and I have a pool, I run the pump for about 4 hours a day. I run fans to cool the house at night, so, my bill is a bit lower than my neighbors (according to my utility company). What is my bill for July? It's 111 dollars. Mind you, that is NOT all for electricity, my actual electricity bill is 70 dollars. The rest is, well, B/S, including Hydroelectric Adjustment, $0.22 Hydroelectric Adjustment $1.22 (I don't know why, we have more than enough water this year) Renewable Energy Surcharge $3.50 Greenhouse Gas Surcharge $0.13 Energy Cost Surcharge $8.46 Bottom line, 111 dollars for July. But my average bill is around 70 dollars a month, for the year. O.K. 70 dollars a month and that tile solar was 121,000 dollars. If taxpayers were not pickpocketed to pay for some of that, how long would it take to break even? 144 years. Ya, that's what the REAL cost of solar is, and my bill is artificially high, due to the government tampering with the marketplace."
+        ]
+    },
+    {
+        "topic_label": "21_miles_average_car_use",
+        "keywords": "miles, average, car, use, power use, house, uses, using, day, year",
+        "representative_docs": [
+            "Yeah annoying he doesn't mention how many miles he did in the year. I highly doubt the car uses anywhere as much as he makes it sound like. He said in warm weather it used 15% of the battery a day and up to 30% in winter. So 15 and 30kwh in a Model S. His average daily use is 149kwh! Crazy high! So, between 10 and 20% of his average use would be for the car based of that. He must just be running massive a/c non stop, because if his house used the U.S average, there would be enough left to drive 130000 miles a year. Or drive 30000 miles and power 3 more houses.",
+            "Dude, don't blame the car for your ridiculous power use without saying how much you drove that year. You are putting out false info about electric cars when there's enough of that already. Your power use is enough to have powered the car for over 32 000 miles and still have enough to power 4 average U.S households (which is already higher than a lot of countries). The average household use is around the equivalent of 32 000 miles in and electric car, assuming 3 miles per kwh. If your house used the same as average household, the left over power you used could have driven the car for around 130 000 miles. The problem is you wasting massive amounts of power on A/C just incase you get a little uncomfy sometimes and don't want to use a 50 watt fan, not the car. You said in winter when the car used upto 30% battery in one day. That's only ~30kwh for the day. Your average use is 149kwh a day. So yeah problem is you, not the car, you could be powering your house, your car and 3 other houses.",
+            "Is it meantioned at any point how many miles are driven in the car each year? I didn't hear it. Can't really blame that extreme amount of power use on the car without metioning how far it's driven. Since the average daily power use over the year is 149kw hours per day (and must be a lot more in summer since gas is used in the winter), that's 5x the U.S average! Which is already higher than a lot of the world. Also means an average power draw of 6.2kw! If the extra 120kwh over average U.S is because of the car, then, if averaging 3 miles per kwh, that's 360miles (579km) a day, or 131 400 miles a year (~211 500km). Guessing it's not getting driven that much. I've heard the rule of thumb when thinking about getting an electric car is that you will charge at home, is to assume your power use will double. So for his use that would still be 27 190 kwh, x3 miles per kwh is still 81 570 miles a year (131 274 km). And still ~75kwh a day for the house. Average daily use at my house, is around 16.5 - 18kwh per day. That's in a decent size house, large reverse cycle air conditioner and pool pump running 4 -8 hours a day, plus solar heating pump running part of the year. Plus power tools and shop vac (1300watts For the vac) that get used a bit. So although I already have solar, (that in most parts of the year puts out more than we use) , and I want the world to end up with solar on houses and apartments, charging powerwalls ect, my biggest take away from this video is before everyone goes and spends $100k on solar and batteries, make sure your house is decently insulated, so you don't need to waste a bunch of energy heating and cooling. Then when it's only a bit hot you can just get a few ~$20 fans in different rooms and just put it directly on you, so you only need ~50watts compared to 5000 watts, cooling down the whole house when your only in one part of one room. Save the A/C for the actually hot days. Same thing with winter. You can have a comfortable sweater and pants on around the house, heated blankets ect and just heat the room you're in when needed. Don't have to have to whole house comfortable T-shirt and shorts weather all the time. If he had the average U.S power use, those panels could put out enough to power 4 more houses!"
+        ]
+    },
+    {
+        "topic_label": "22_kwh_day_consumption_solar",
+        "keywords": "kwh, day, consumption, solar, kw, system, per, summer, usage, year",
+        "representative_docs": [
+            "I live in the suburbs of LA, out of the marine layer, where I get lots and lots of unobstructed sun. I have a 14.4 kw Tesla set up with 36 panels. The most I ever see generated is 11.5 kw and even around June 21, the longest day of the year, my max is 98 kwh. That would be like your system making 200 kwh. I\u2019m dumbfounded how you can hit 260 kwh in New Jersey. You solar roof system is clearly out producing my panel system based on rated power output. Also, how the heck are you using 200 kwh per day? I have a 2,200 square foot house and a model S that sees 25,000 miles per year and the most I ever use in the dead of summer is 1,800 kwh in a month. Do you have an absolutely massive house, or is it an older house with inefficient insulation and inefficient AC? Overall, I make 22 MW per year and use 20 MW. My monthly bill is still $40 in the winter and $70 in summer because I get taxed how much power I move to and from the grid, even though my net usage is negative.",
+            "I\u2019m baffled by the amount of electricity you use. I have a 9.9 kw solar system without batteries and a 4500 square foot house and a Tesla model 3 I charge solely at home in western Canada. My system produces 60kwh per day max in the summer (less in the winter) and on avg my house uses 20-30 kWh per day even charging my car in the summer and using ac, although I have a heat pump. My biggest consumption is during the winter months when temp drops to freezing the odd time and my electric furnace kicks in that consumes way more energy than my car, at this point my consumption can be as high as 100kwh per day. Overall my system covers most of my yearly costs with net metering. Your heat and ac system must consume a ridiculous amount of energy because I can\u2019t comprehend the numbers of consumption you have. Change those and I bet you drop your consumption numbers by an insane amount.",
+            "so $92,000 and you are using 54000 kw per year. the 54000kwh does not make senses and you are not even heating your house with electricity and probably the same for your hotwater .. I live in a cold region where it get to -45c in the winter and + 40c in summers and have an electric car and everything in my house is electric and i am not even close to that many kwh .. you would of being better to make your house more energy efficient and then get solar power if your numbers are true .. if you are driving typically that only ~10kw per day for charging your car (30 miles per day) or ~4000 kwh per year. typically general house consumption ( appliances, lighting and entertainment) is 5000 - 10000 kwh per year. so 40,000 kwh for AC for only 1/2 the year or you are driving 300 miles per day on your electric car your current power walls do not have enough juice in them to recharge your EV at night if you are driving 300 miles per day .. if you go by New jersey energy stats it is $3000 per year (electricity & gas) and the average electrical consumption is 8000 KWh per year . so if you go by that basic stat it be at least 30 years to pay that off, if you converted everything to electricity . and in that time you would have to have to replaced your power wall at least 2 twice and your solar power production would dropped to at least %50 if they are not down to zero as roof shingle solar do not generally last that long perhaps 15 years ( so many connects that can fail).. but from your stats of 29kw of solar that will produce maybe 50000 kwh in a year and you say you have lots left over .. I think you over size your solar and you paid to much you will never get you money back maybe 1/2 at most (in reality i think under your current configuration 1/8 - 1/4 )"
+        ]
+    },
+    {
+        "topic_label": "23_lithium_batteries_sustainable_cobalt",
+        "keywords": "lithium, batteries, sustainable, cobalt, lithium batteries, mining, environmental, battery, child, slave",
+        "representative_docs": [
+            "Marques, I genuinely like your videos, especially the phone reviews. However, I elieve the future is not in solar or batteries for fuels sources. Lithium mining takes its toll, it is also a finite resource\u2026even more finite than petroleum or bio fuels. Recycling lithium also takes its toll and it can only be recycled so many times. It also has environmental consequences. The last thing a wolf needs is landfills full of batteries. which will happen going down this path. Musk also know this. Hydrogen fuel cells is much more sustainable and produces water as a byproduct. Also, this hear scientists have made a breakthrough in fusion technology. Small reactors the size of a football that can eventually be used for power.Both of those options are more sustainable than batteries. Musks goal is to hook people on batteries just like the oil companies hooked people on petroleum and make money off governments along the way. I know currently everyone is on the Tesla train, but it\u2019s a destructive unsustainable path in the long game.",
+            "@@KimmoJaskari Links probably deleted so you'll have to look it up on your own. I have my proof. Where's yours. Don't say it isn't true unless you bring proof. Why renewables can\u2019t save the planet | Michael Shellenberger | TEDxDanubia Have you seen what it does to the environment. What is the environmental impact of a battery? By Arnaud Delubac In pictures: South America's 'lithium fields' reveal the dark side of our electric future By Maeve Campbell The Social and Environmental Impacts of Lithium Mining by Malcolm Earnshaw-Osler \"The race to decarbonize electric-vehicle batteries\" McKinsey & Company February 23, 2023 | Article Don't forget the Chile labor in other countries. \"Child labour, toxic leaks: the price we could pay for a greener future\"",
+            "To build a gas powered car. The steel, aluminum, fabric, wires, etc, Produces 7Mt of CO2. To build an electric powered car Produces 6Mt of CO2. The batteries that go into the car depending on size of battery Produces 13-14Mt of CO2. for a total of 19-20Mt It takes 130,000 miles to offset that CO2. The batteries only last 100,000 miles. The lithium is not recycle-able. Gas powered still produces less CO2 than an electric car. Links probably deleted so you'll have to look it up on your own. Why renewables can\u2019t save the planet | Michael Shellenberger | TEDxDanubia Have you seen what it does to the environment. What is the environmental impact of a battery? By Arnaud Delubac In pictures: South America's 'lithium fields' reveal the dark side of our electric future By Maeve Campbell The Social and Environmental Impacts of Lithium Mining by Malcolm Earnshaw-Osler \"The race to decarbonize electric-vehicle batteries\" McKinsey & Company February 23, 2023 | Article Don't forget the Chile labor in other countries. \"Child labour, toxic leaks: the price we could pay for a greener future\""
+        ]
+    },
+    {
+        "topic_label": "24_informative_video_informative video_thanks",
+        "keywords": "informative, video, informative video, thanks, video informative, thank, great video, video thanks, great, information",
+        "representative_docs": [
+            "Very informative video.",
+            "Very informative video, thanks.",
+            "That was a very informative video! Thanks"
+        ]
+    },
+    {
+        "topic_label": "25_numbers_app_video_data",
+        "keywords": "numbers, app, video, data, love numbers, great, numbers guy, thanks, math, like numbers",
+        "representative_docs": [
+            "I love numbers !!!",
+            "Love the numbers \ud83d\ude0e",
+            "I'm here only for the numbers \ud83d\ude05"
+        ]
+    },
+    {
+        "topic_label": "26_sleep_mattress_subscription_cover",
+        "keywords": "sleep, mattress, subscription, cover, eight sleep, eight, bed, mattress cover, pod, pod cover",
+        "representative_docs": [
+            "Eight sleep, the company that wants a subscription for your mattress to function?",
+            "Eight Sleep! A monthly subscription for your mattress!",
+            "i was interested in the eight sleep pod cover.. until I realized it requires a subscription. I'm not paying a subscription fee for my bed to work. Ridiculous."
+        ]
+    },
+    {
+        "topic_label": "27_rich_rich people_money_people",
+        "keywords": "rich, rich people, money, people, afford, poor, richer, things, must, millionaire",
+        "representative_docs": [
+            "rich people",
+            "Rich people can do this.",
+            "If only we were rich"
+        ]
+    },
+    {
+        "topic_label": "28_went_smooth_youtuber_subscribers",
+        "keywords": "went, smooth, youtuber, subscribers, whatever reason, smoothly, went smooth, whatever, reason, name",
+        "representative_docs": [
+            "This went smooth because of who you are.",
+            "It went smooth because it\u2019s you \ud83d\ude02",
+            "\"For whatever reason, when I ordered, everything went perfectly smooth..\" Hmm... I wonder why \ud83e\udd14"
+        ]
+    },
+    {
+        "topic_label": "29_years_electricity_bill_would take",
+        "keywords": "years, electricity, bill, would take, would, pay, take, investment, roi, 10",
+        "representative_docs": [
+            "So if I spent $100,000 for that system for my 2600 sqft house and my average Electric bill is $150 a month so round it up to $200. That\u2019s $2400 and 10 years would be $24,000 so 40 years would be $100,000. But realize I rounded up so let\u2019s call it 50 years to break even. I\u2019m 50 years old now. So I would be 100 years old before it breaks even. Where do I sign up????",
+            "I think the problem is, it's not like you'd do nothing else with that $93k, even just a 6% return would be like $5.6k in the first year, and it only compounds from there. You're not $9.66k/$93k after the first year, you're $9.66k/$98.6k, making the 'break even' longer than the predicted 9.6 years by a significant amount, or possibly even never depending on how much the cost per unit inflates over the next 25 years. After 25 years earning 6% on your initial $93k, you'd be getting around $24k each year. Perhaps electricity will inflate by that much, but even with the current record high it's less than double per unit what it was 25 years ago. Also worth noting that a 6% return is very much on the low end of what you can expect long term from even very safe investments, that's under the average for even a 60/40 401k. Don't get me wrong, I think there's advantage to being more off-grid in general and paying a premium for that isn't necessarily a bad idea, I just don't think it makes sense from a purely financial standpoint and would treat it more like insurance. On average, you wont see a return on insurance, but it's still absolutely worth having in many situations. Thanks for the video.",
+            "Really fantastic video and great clarity on the topic. Would love to get this setup. For the next video, it would be amazing to see a \"real life\" investment breakdown and business case, such as what that invested 100k could have generated as an alternative investment over 10 or 25 years, balancing the lowered electricity bill. The average gain expected over 25 years if you invest 100,000 USD of course depends on a number of factors, including the type of investment, the fees you pay, and the overall performance of the market. However, the average annual return for the US stock market over the past 90 years has been 10%. This means that if you invest 100,000 USD and the market continues to perform at its historical average, you could expect to have around +500,000 USD in 25 years. Would that possibly have covered some electricity bills (9000 USD/y, + yearly inflation increase e.g. 225-300k in total electricity cost after 25 years)? Possibly, if you don't touch that money and there's no fund manager taking a big cut of the gains (and the tax man), but still.... Case 1: Invest 100k now in \"gear\" and enjoy free energy bills for 25 years. Need to possibly upgrade to a new system after 25 years for X money. Possibly save the planet (arguably not as it takes big chunks of carbon to build it all). Case 2: Invest 100k now in \"the market\" and have a couple of 100k left after all the energy bills are paid, to either continue to invest, or then buy a hyper effective system with next gen, 25 years from now, technology. Possibly save the planet, or not, depending on what you invest in (green funds?). This obviously looks different if you have to borrow the money and pay interest, or have the cash available to invest. Do you expect no maintenance costs on the Tesla installation over the years? The zero energy bill will come at some costs of maintenance I'm sure. What options does the Tesla contract come with? Naturally your current HVAC's would need replacement as well, but you have that cost regardless. Also, there's always the option of swapping that P100D Plaid to a more \"normal\" range car, just not as fun! Finally, to what degree can this system run without the apps - e.g. fully manually/\"electromechanically\" when Tesla decides to do something different, putting Tesla Model Z9 on Mars, changing the name to X and loosing all the value of the company, and then stop honouring the app updates - will it still work when iOS 26 is out? Keep it up for all the techies out there!"
+        ]
+    },
+    {
+        "topic_label": "30_may_temperature_spring_summer",
+        "keywords": "may, temperature, spring, summer, best month, sun, panels, best, april, june",
+        "representative_docs": [
+            "April showers bring May flowers, after all",
+            "it may be the best month.",
+            "April showers bring May flowers, after all"
+        ]
+    },
+    {
+        "topic_label": "31_panels_years_solar panels_10",
+        "keywords": "panels, years, solar panels, 10, 25, efficiency, degradation, solar, panel, 20",
+        "representative_docs": [
+            "@@davidtuer5825 Exactly, nothing is forever, so why not say it out clear. There is not one solar system on the planet rated for more than 25 year lifespan. Not one. 10 years free electricity, then next 10 years saving for replacement, its year 20+ where you actually make money. Look it up France is the only country in the EU with solar panel recycling. I dont think they do these tiles. They want a billion solar panels to be removed off roofs and replaced over the next 10 years as they reach 20 years use. Even if these things work for 40 years slowly getting worse, france and germany both want people to remove at lifespan and not use them forever.",
+            "Conventional Solar panels deteriorate somewhat like compounded yearly interest mostly depending on the amount of sun and temperature of the panels. One chemistry and materials science guy showed how a certain careful chemical concoction paint could make metal panels into such huge heat dissipation units that they maintained a temperature a few degrees lower than ambient temperature, but the entire surface of the metal panels had to be painted with this relatively expensive concoction that had to be applied in a huge number of layers--the more layers the better. However, this could not be applied to the sun-exposed solar panel or cells due to blocking completely of the sunlight, thereby negating the input energy to produce the electrical charge. I do not know what the predictive math model for the solar cell efficiency deterioration with time and temperature. At all sun-exposed times, the cells supposedly lose their efficiency so that they have a half-life so that at some point some years into the future the cells become completely useless and don't produce any useful output power. It would be interesting for you to determine what is this math predictive model for the Tesla brand product, and determine how often it would need to be replaced if you wanted to maintain a minimum of 50% of the original efficiency?",
+            "Do Solar Panels Degrade over Time? As with most technologies, solar panels will naturally produce less energy over time. This reduced power output is called the degradation rate. The median solar panel degradation rate is about 0.5%, which simply means that a solar panel\u2019s energy production will decrease at a rate of 0.5% per year.3 After 20 years, your panels should still be working at about 90% of its original output. Mean numbers are not real. You had to change those paneles in 20 years, they are saying 25 years Warranty, they are going to change your panels for free? What about batteries? They are going to degrade \ud83d\ude09. Make numbers again . My numbers say you are going to be making good in 30 years, when the entire cycle begins again. That's ok for a 25 years old guy, not for me \ud83d\ude05."
+        ]
+    },
+    {
+        "topic_label": "32_bitcoin_mining_crypto_mine",
+        "keywords": "bitcoin, mining, crypto, mine, mine bitcoin, miners, bitcoin mining, mining crypto, crypto mining, mine crypto",
+        "representative_docs": [
+            "Bitcoin mining",
+            "What about Bitcoin mining?",
+            "Bitcoin mining"
+        ]
+    },
+    {
+        "topic_label": "33_grid_battery_batteries_power",
+        "keywords": "grid, battery, batteries, power, outages, outage, need, back, power outage, power outages",
+        "representative_docs": [
+            "\"What if you want to be completely independent off the grid, totally off the grid?\" \"With a system like this, you can theoretically not just have $0 power bill but never actually pull from the grid at all. You're completely self-sustainable.\" For people like me, who before your video did not know how little power you can actually store in the powerwall, this is EXTREMELY misleading. The PowerWall will NOT make you go \"completely totally off the grid\". It will not make you \"self-sustainable\" in any meaningful way. You will still be dependent on the grid, except you might not feel an occasional power cut. That's it. Forget about disconnecting from the grid or installing this system in a place without any electricity - with the current battery technology that is NOT POSSIBLE, unless your energy needs are unusually low (lights and maybe a fridge). Maybe you should have been clearer with this - not every person who watched the video understands the power needs of a household vs power capacity of batteries.",
+            "@@YolandaPlayne One thing that I almost never see mentioned in these videos is that in some areas, if you do not have batteries on your solar system, the utilities require that if the grid goes down your solar system is required to shutdown as well so it does not cause issues with power feeding back to the grid side while they are repairing it. So you still lose power during grid outages even if your home could be generating power for you to use. There obviously are ways to disconnect from the grid so that feeding power back isn't an issue, but many areas have archaic requirements that don't care what capabilities you have, and instead require that for your system to be grid-connected unlesds you have batteries to power yourself your system bust disable itself during grid outages. Also net-metering is disappearing across the country quickly, because the utilities cannot make money from it. They replace it instead with systems that pay you the wholesale rate for what you send to the grid and then charge you retail like normal for the power you pull from it. So both of these scenarios make batteries a much better option.",
+            "1) Even if you don't draw power from the grid, you do get/need the clock signal from it. Be it 50Hz or 60Hz, your auxiliary clock is not precise enough to keep you going for long. If you live completely disconnected for an extended period of time you may notice the clock in your fridge, stove etc. being slightly off after some time and/or your computing equipment may have a harder time talking to devices outside your household. During a power outage your personal clock generator doesn't start up to suddenly generate its own signal - you'd have crashing computers and weirdly behaving appliances all over your home. Instead, it listens in on the grid clock all the time and tunes itself to it, readying to take over if the need arises. That's how your app takes notice - since you're not drawing any power you normally wouldn't know, but the clock signal being gone is noticed by your equipment immediately. 2) You're not paying a utility base fee for having an account. You're paying that for being connected to the grid, for having people holding a steady supply of electricity ready for you whenever you decide to draw it, for them maintaining and expanding that grid in case you ever use it even when you currently don't. Not using electricity today is very different from not buying milk today. Imagine your setup breaks down or a longer period of harsh weather hits and they react like: \"Oh yeah, your line was cut in some construction work but because you weren't using the grid anyway there was no need to do anything about it. Want to be reconnected? We'll send you a quote and a possible date in a few weeks.\" This not happening is what your base fee is for."
+        ]
+    },
+    {
+        "topic_label": "34_lighting_background_color_love",
+        "keywords": "lighting, background, color, love, lighting video, warm, beautiful, lighting setup, talking head, set",
+        "representative_docs": [
+            "I love the lighting in this video",
+            "Background \ud83e\udd29\ud83e\udd29",
+            "That lighting..."
+        ]
+    },
+    {
+        "topic_label": "35_mkbhd_mkbhd video_video_video mkbhd",
+        "keywords": "mkbhd, mkbhd video, video, video mkbhd, videos, best mkbhd, mkbhd videos, tech, best, mkb",
+        "representative_docs": [
+            "this is my favorite mkbhd video of all time.",
+            "This is the best MKBHD video of all time...",
+            "The best MKBHD video ever."
+        ]
+    },
+    {
+        "topic_label": "36_tech_video_videos_technology",
+        "keywords": "tech, video, videos, technology, love, best tech, thanks, thank, best, interesting",
+        "representative_docs": [
+            "This might be the best tech video I\u2019ve ever seen on YouTube.",
+            "This is one of the best tech videos I've watched! Thank you!",
+            "THIS is a tech video!"
+        ]
+    },
+    {
+        "topic_label": "37_jersey_new jersey_nj_new",
+        "keywords": "jersey, new jersey, nj, new, california, live, state, arizona, uk, living",
+        "representative_docs": [
+            "Hey Stephen how you doing former Delaware resident you forgot to mention all them rainy days I'm a New Jersey now about the same New Jersey drivers are definitely the worst I miss my fellow delawareans good luck to you Steve",
+            "Great video! As you seem to take the eclectic approach to cost vs. payback one major thing you could do would be to move out of NJ. I used to live in CT and had a chance to relocate to WA 15 years ago; no BS but the $ I haven't had to pay out in state tax over that time is probably +/- 200k. If you do one of those rate of return things say using the SPX it's probably around 400 k in overall payback;; i.e. WA vs CT. There's plenty of opportunities for a young go getter like yourself in more tax friendly states for sure. Best of luck!",
+            "You live in New Jersey?!?!?"
+        ]
+    },
+    {
+        "topic_label": "38_gas_car_savings_payback",
+        "keywords": "gas, car, savings, payback, fuel, gasoline, petrol, saved, period, car gas",
+        "representative_docs": [
+            "I think need to add per year electric car gas savings to the total cost saving because you were charging your car from the same electric source",
+            "I think you should have accounted for your average yearly fuel cost for the car, and added that to your 10 year pay-off period. Obviously this fluctuates a lot even with the market itself, and that in itself is a very good thing to know that you are now much less dependant on gas prices and the market, effectively making you not impacted (not at all, obviously, but mostly) by it. Another thing is the convenience of charging the car at home and having your car always ready to go, rather than having to go fill up the tank and some station. Doesn't seem like much but if even you end up being in a queue once here and there. Let's say what... you'd spend 10 min average to fill up the tank, and also the driving to the location, which is an inefficiency in and off itself. If you fill your tank once a week/fortnight. 10 min / week * 52 weeks that's 520 minutes of your year that you aren't wasting at the station, and the drive which we could say is very dependent on a person by person. But I wouldn't say any less than 3-5 minutes drive. You could be saving 8-12 hours a year on this endeavour alone.",
+            "Great video, thanks. For return of investment calculations, I would separate out the money you save because you don't pay for gas anymore. If you fill the car once a week for lets say 60$, thats 52x60=around 3000$ a year. If you deduct that from the 93k you paid total, your payback period is more like 7 years. Btw, here in CA we pay around 40$ in mandatory charges per month:) On the other hand, we get the same money back for net metering than we pay (at least with people who have NET2 contracts (until April 2023). That means that under time of use, I paid and received around 63 cents from 4pm to9pm and 33cents during the remaining hours. Another metric you could use is total cost 95k$ divided by kwh produced under warranty (25 years) 54k x 25 = 1,350,000 kwh, which is around 7cents per kwh produced. This gives you a good idea as well if its worth replacing gas with electric heating. Lets say a therm of gas costs 29 cents, which makes conversion easy, since a therm has about 29 kwh of energy, so a gas produced kwh is around 1cent, unless you were in CA in Jan 2023 when the price shot up to 3.45$:), even then it was \"only\" 12cents a kwh. Better if you open an EV charging station and charge 60cents a kwh in your driveway:)"
+        ]
+    },
+    {
+        "topic_label": "39_snow_ice_roof_falling",
+        "keywords": "snow, ice, roof, falling, sheets, slide, roofs, sliding, metal, melt",
+        "representative_docs": [
+            "That was very informative and so glad you waited the year to give us a full analysis of how the solar system worked for you - a lot can be interpolated from your numbers. And that roof and the snow!!! Definitely can be a hazard with snow falling down - similar to standing seam metal roofs where snow can slide right off if the metal is heated from within (ie. heat escaping the roof of the home) and that's why you'll accessories called snow guards that are attached to the metal roof to intentionally prevent the snow from 'sheeting' off like that - obviously, that would be counter productive for solar roof tiles!",
+            "26:30 If you have kids and don't install extra hardware to prevent snow falling onto people, make sure to teach them to not spend any extra time around the area where the snow can fall onto you. Snow with ice surface at the bottom is really heavy when it falls from the roof and if it hits you into the head, it may kill you if you're unlucky. Here in Finland, most modern houses are fitted with extra hardware (kind of rails near the edge of the roof) designed to catch snow before it falls from the roof. Of course, that would prevent damage from falling snow but it will prevent snow from getting off the solar tiles so it's not without problems either.",
+            "Great review Marques, especially the discussion at 26:00 on Snow build up. Snow / ice dams can be a big issue with regards to roof damage/roof collapse. For roofs without solar panels, there are wires you can install on the roof to melt the snow/ice (similar to on plumbing pipes). I wonder if there is something available specifically for solar panels (a heated frame perhaps that goes around the panels to heat up during days when there is heavy snow/ice so it can melt the snow faster)."
+        ]
+    },
+    {
+        "topic_label": "40_africa_india_south_south africa",
+        "keywords": "africa, india, south, south africa, african, south african, tropical, available, nigeria, country",
+        "representative_docs": [
+            "South Africa really needs this",
+            "A need in South Africa \ud83e\udd7a",
+            "We need this in South Africa"
+        ]
+    },
+    {
+        "topic_label": "41_spanish_audio_voice_french",
+        "keywords": "spanish, audio, voice, french, portuguese, dub, english, dubbing, ai, translation",
+        "representative_docs": [
+            "Hey, mate. Here's some feedback regarding the Portuguese dubbing: (better late than never) Script: The translation is - on a scale of 0 to 10 - a 7. I suggest that you hire someone who is more proficient in the language to do a more appropriate translation. Regarding the AI-generated voice: it would be more interesting if you used a service that simulates your voice, or alternatively, I suggest that you hire a professional voice actor. It sounds too robotic and doesn't resemble your voice at all. I mean, I would not watch your videos again with this portuguese AI generated voice. Sorry \ud83d\ude38. Luckily, I'm fluent in English and can watch with the original audio. Additionally, the audio was quite out of sync, which made it hard to follow and enjoy the content. If you really want to reach an audience in another language, especially in Brazil, you need to invest more in this. MrBeast did a great job in this regard, and I believe that you should do something similar.",
+            "Why is it in Spanish?",
+            "Hi! I don\u2019t know if you\u2019ve gotten this type of comment before but as a person whose mother tongue is Spanish and speaks both English and Portuguese I feel like I\u2019m in the spot to say that\u2026 Spanish voiceover is totally off. As soon and I enter the video and YT puts the Spanish voice over, I go and choose the original audio because is just way better. Spanish feels lifeless and emotionless, and it\u2019s not just the voice, as soon as you start talking, music completely shuts. As counterpart, Portuguese voice over is way better So, that left me wondering\u2026 is Spanish and/or Portuguese voice over made with AI? And if both are\u2026 why is it Portuguese way better than Spanish?"
+        ]
+    },
+    {
+        "topic_label": "42_battery_car battery_tesla_car",
+        "keywords": "battery, car battery, tesla, car, wall, tesla car, power wall, powerwall, use car, power",
+        "representative_docs": [
+            "an interesting thought should be how using your EV as a Battery bank for your house will affect its lifetime, Tesla and other EV manufacturers make claims that your battery will last or is guarantee to last for xy years but surely using it as a battery bank will hurt the amount of cycles its designed for ? i think the idea of using it as a battery bank is great and i live in south africa we currently have 6-12 hours of blackouts per day so this is a really cool idea but we also have to think how using your EV like that will hurt its battery life i know i sound like a hater trust me would love a F150 lightning in my garage :) but i think its an important aspect to consider, I know you have used a F150 as part of a sponsorship before so can you comment if using the car as a secondary battery bank at home would hurt the warranty on your battery ? or are EV batteries different to other lithium batteries and not affected by the amount of cycles done ?",
+            "Can you use Tesla car battery as a Powerwall, that would be awesome.",
+            "Using tesla car battery as a storage instead of power wall interesting idea you can save on power walls cost not sure about the reducing the life of your tesla car battery"
+        ]
+    },
+    {
+        "topic_label": "43_wind_turbine_wind turbine_windmill",
+        "keywords": "wind, turbine, wind turbine, windmill, turbines, windy, wind power, winter, wind turbines, small wind",
+        "representative_docs": [
+            "Need a small wind turbine for your winter months. With clouds, comes wind.",
+            "buy a wind turbine",
+            "Can you add a wind turbine to your system?"
+        ]
+    },
+    {
+        "topic_label": "44_tiles_solar tiles_years_warranty",
+        "keywords": "tiles, solar tiles, years, warranty, 25, panels, batteries, years tiles, solar, 10",
+        "representative_docs": [
+            "The main questions/thoughts I have: You mentioned that your system has a 25 year warranty. What does that entail? Does that just mean if something breaks or if something degrades in output to a certain level? You have experienced this system in the best state it will ever be in while you own it. Solar panels degrade over time. How much production will have degraded in 3, 5, 10, 20 years? The degradation speed is the most important part to me, cause the only way you can fix this would be literally installing a brand new solar roof... and then what happens to all the previous tiles? It could end up being a lot less economically useful and not environmentally friendly like you think it is..",
+            "Thank you for the video. I highly advise people who are considering anything similar but having spend last money on it - think twice and have your own research. While it sounds good of 0 dollar bill, there are many risks. Even if tiles have 25 year warranty, what are true conditions of that warranty? Tiles will definitely loose it's efficiency over years, home batteries as well. But would warranty help you change some tiles because of normal usage conditions and over time depreciation of tiles efficiency to store as much as in the first year? But I liked the fact that maybe car battery can help at this case. 10 year of investment payoff is quite large, especially taking first and the most efficient year of usage and then calculating the rest 9 years saying it is going to be same (unless it was considered but not told in a video). If home batteries will cut it's storage capability after 10 years in half, that would mean you will be taking more from the grid, same goes having maybe second electric car later as life is ever changing. There is so much to consider and some things might not even be predictable, like electricity prices after 9 years, but including worn on batteries, tiles and at least one or two breaks of the system to my opinion is vital, especially for people who not only want to be more sustainable to world like Marques, but to those who want to save some money or saving money was the only main aspect of getting solar tiles/panels. While tiles and solar panels might improve in every aspect later, could be also worsen to be more affordable to bigger group of people. So if you consider these additional aspects - I am more than happy and would definitely want a video after 9 years of usage with the numbers on how much and where today's calculation took a course off, or maybe not - that would be great!",
+            "So couple of problems here. Panels will not keep the same performance over the years. Their maximum performance output will keep dropping constantly, especially considering they are tiles and not separate panels. PV panels don't like heat, that's why they are mounted _above_ roof so convection can keep cooling them. These tiles, can't be cooled like that and they just keep getting hotter. This means ideal payoff period of 9.6 years is not even close. In ten years those tiles will be around 80% (guess but significantly lower than 90%) efficiency and will have to be changed at some point. I'd hazard a guess payoff period will be closer to 13-14 years which is what you'd guestimate considering solar tiles are less efficient than regular panels which that assumption of 6-10 years is based off of. Also, while power bill might be 0$, you are still paying for your electricity, it's just you paid for it all at once. Your bill will be 0$ in 10+ years. In addition to all of the durability of the tiles, there's the elephant in the room which are batteries. Depending on chemistry they might be anywhere from 2 years to 5 years of life span. Which another additional cost to add for payback period. If it's Li-Ion like I assume it is considering size and the fact Tesla loves to abuse those, they are far from ideal for this use case and they will have anywhere from 600-1000 charge cycles life span before capacity starts dropping. In short, no it's not worth going for Tesla system because they charge like stupid, even with tax deductions which will only get smaller over time as will crediting system for electricity, both of which are designed to entice more people into getting solar systems. Once people start doing that, there's no incentive to give you free power during the winter because network will have too little power during the winter and too much during the summer. Generally speaking non-battery systems are better because there are fewer components in the system. There's no inverter, no batteries or replacement of those, etc. Cheapest investment is by far getting solar water heater. Electrical water heater, unless you have EV, is your biggest electricity consumer (30-40% in my case). Stand alone PV panels are better since they can be easily replaced by panels from different manufacturers and have higher efficiency. In summary, this whole thing is pointless unless you have 100k+ excess money to throw away in short term that you can't otherwise use in a smarter way, like getting insulation, installing heat pumps instead of AC and similar. Payoff period makes sense only if you have a lot of sunny days and electricity is expensive. Otherwise money is better spent elsewhere."
+        ]
+    },
+    {
+        "topic_label": "45_100k_cash_93k_120k",
+        "keywords": "100k, cash, 93k, 120k, 19, 000, thousand, man, 120, paid",
+        "representative_docs": [
+            "man had payment option in cash, he realy had 93k in cash laying around \ud83e\udd23",
+            "19:19 My man really chose cash to pay 100k what a G",
+            "19:19 This fuckin dude payed his $92,000.00 Bill with cash"
+        ]
+    },
+    {
+        "topic_label": "46_hail_storm_hail storm_storms",
+        "keywords": "hail, storm, hail storm, storms, durable, damage, hail storms, tiles, happens, hails",
+        "representative_docs": [
+            "I'm not that far in, but 5 mins in, what happens during a hail storm? Here hail is a big thing. Will insurance take care of you if hail damages it?",
+            "What about a hail storm?",
+            "What about hail storm ?"
+        ]
+    },
+    {
+        "topic_label": "47_insurance_home insurance_homeowners insurance_roof",
+        "keywords": "insurance, home insurance, homeowners insurance, roof, homeowners, hail, owners insurance, home, home owners, cover",
+        "representative_docs": [
+            "@@_pehash Yeah, and insurance cost to cover the hail storms while $92,000 can easily pay you in interest about $4000 after-tax these days.",
+            "Any issues with your homeowners insurance when doing this?",
+            "Did your home insurance go up Or did they stop insurance on home"
+        ]
+    },
+    {
+        "topic_label": "48_800_month_800 month_bill",
+        "keywords": "800, month, 800 month, bill, electric bill, bill 800, electricity, electric, month electricity, 800 per",
+        "representative_docs": [
+            "Your power bill was $800+ a month?",
+            "800$/month Electric bill?",
+            "How is your electric bill $800 a month??"
+        ]
+    },
+    {
+        "topic_label": "49_kw_kilo_kw kwh_kwh",
+        "keywords": "kw, kilo, kw kwh, kwh, metric, kilowatt, kw kw, watt, unit, kwh kw",
+        "representative_docs": [
+            "It's kW and kWh, not Kw and not Kwh.",
+            "its kW and kWh, not Kw and Kwh",
+            "It's kW and kWh not Kw and Kwh"
+        ]
+    },
+    {
+        "topic_label": "50_ev_cars_electric_evs",
+        "keywords": "ev, cars, electric, evs, charging, car, handle, electric car, vehicles, electric cars",
+        "representative_docs": [
+            "@@marios3202 I work for the utility company in CT and i can assure ALL these companies are upgrading their equipment to handle the demand. Transformers we are installing are now will be able to handle the load on the system. IM seeing it first hand...Its happening now and has been years prior.. These companies especially in the north east will be able to meet and exceed the demand when electric cars take over. And people dont charge their cars all at once, some ar work some at home, these cars are smart they can also put power on the grid if needed, and they can schedule when cars can charge reducing the load. there are people way smarter than you or I working on it. We see a problem and we adapt and overcome. We dont say \"the grid cant handle it\" we do something about it..Well some of us................",
+            "@@marios3202 That's not even close to being true. Your Oven uses a 50A connection where as a home EV charger is anywhere between 25A and 50A. Saying the grid can't handle everyone charging their EV is like saying the grid can't handle everyone using their Oven and stove top at the same time...",
+            "@@crelliseng \"Saying the grid can't handle everyone charging their EV is like saying the grid can't handle everyone using their Oven and stove top at the same time..\" Not a good argument since electric ovens have existed in homes for decades, in fact, they are in 68% of homes in the US. On the other hand, only 3% of cars in the US are electric. And, of course, people will still use their electric ovens, even while their electric cars are charging. In addition, green activists are convincing politicians to electrify America, so eventually, only all-electric appliances will be allowed in new construction. A new Calif. law went into effect as of Jan 2023 specifying just that. And, by 2035, all new cars sold in that state will be electric only. This is happening in spite of yearly summer brownout warnings in the southern part of the state. That state's grid can barely handle its current load."
+        ]
+    },
+    {
+        "topic_label": "51_value_value house_house_home",
+        "keywords": "value, value house, house, home, home value, property, value home, add value, add, increase",
+        "representative_docs": [
+            "You forgot the added value to your house in the money section. A well done installation like this from a reputable brand will increase the value of your house significantly.",
+            "My question is how tight is your house envelope? When they were building it did they take into considerations of maximizing energy loss from the home? I'm assuming, because you do pretty well for yourself you got a beautiful home, but I've learned that doesn't always translates into a super well insulated, low energy use home. If they didn't consider this 10 year payback is very impressive. Giving my assumptions that you got a pretty nice size house",
+            "My question is how tight is your house envelope? When they were building it did they take into considerations of maximizing energy loss from the home? I'm assuming, because you do pretty well for yourself you got a beautiful home, but I've learned that doesn't always translates into a super well insulated, low energy use home. If they didn't consider this 10 year payback is very impressive. Giving my assumptions that you got a pretty nice size house"
+        ]
+    },
+    {
+        "topic_label": "52_fine_19_mad_27",
+        "keywords": "fine, 19, mad, 27, lotion, 26, whatever reason, 17, everything fine, reason",
+        "representative_docs": [
+            "\"Everything's fine, I'm not mad, it's fine\" \ud83d\ude02\ud83d\ude2e\ud83d\ude22",
+            "19:47 it's fine it's fine everything is fine I'm not mad \ud83d\udc40\ud83d\udc40\ud83d\ude02",
+            "19:45 it\u2019s fine. It\u2019s fine. Everything is fine. I\u2019m not mad. It\u2019s fine \ud83d\ude05 I don\u2019t really think it\u2019s fine."
+        ]
+    },
+    {
+        "topic_label": "53_expensive_affordable_price_prices",
+        "keywords": "expensive, affordable, price, prices, cheaper, tech, buy, becomes, technology, afford",
+        "representative_docs": [
+            "\u200b@@zildogThat would be me, driving a Nissa Pixo and never going to be able to afford any of this, but I still found it enjoyable and informative. When this will be finally/hopefully become affordable for more of us, it's nice to already have some knowledge. Or be inspired to look up some cheaper options maybe.",
+            "I suggest holding off on making any purchases until the technology has advanced and become more dependable. This way, you can avoid any potential issues or malfunctions that may arise with current products. It may take some patience, but it's worth it in the long run to invest in a more trustworthy and efficient technology.mproves and becomes more reliable.",
+            "120k is alot, even with the federal tax credit. Hope the technology gets so efficient to the point that overall price decreases. Although if i have learned anything from the last 20 years, its that prices dont decrease. Looking at phones now, an average good phone will cost alot while an average good phone from a few years back will cost half less and in my perspective, technological advances should make it so that we pay the same price for a better product, i mean sure our phones are way complex and powerful now, but whats the point of advancing technology, like literally one of the reasons we do that is to get better things from the same amount of resources we have on hand. In a few years where the price is cut in half or atleast decreased, i can justify myself buying this kind of system, although a smaller one."
+        ]
+    },
+    {
+        "topic_label": "54_outages_power outages_outage_power outage",
+        "keywords": "outages, power outages, outage, power outage, power, internet, us, experienced, never experienced, modem",
+        "representative_docs": [
+            "Great video, very interesting indeed! Funny how power outages are a genuine concern in the US, living in Germany I have never experienced a power outage in my 29 year life time",
+            "Very good video as usual ! Funny that you have power outages! In Europe there are practically no power outages ! Especially not when there is a thunderstorm! Why do you have power outages during a thunderstorm. Falling trees ripping the cables ?",
+            "Being a half-German-half-American I still can't believe how many power outages are in the US. I'm over 30 years old and I've whitnessed one poweroutage in my whole life hear in Germany. Most Germans live and die without ever whitnessing a single power outage in Germany. Ever. In Germany a power outage in a city, even for a few minutes, would make it to most news headlines, since they are so rare. It just doesn't happen, not even in small rural regions. I can't wrap my head around how bad the infrastructure in the US is being maintained. Nobody seems to think that it's a proof of government incompetence, but it is."
+        ]
+    },
+    {
+        "topic_label": "55_fold_pixel_phone_pixel fold",
+        "keywords": "fold, pixel, phone, pixel fold, monitor, iphone, apple, screen, smudge, watch",
+        "representative_docs": [
+            "He's using a pixel fold!!",
+            "I see you with that Pixel Fold",
+            "I see you with that pixel fold"
+        ]
+    },
+    {
+        "topic_label": "56_review_great review_review thanks_year review",
+        "keywords": "review, great review, review thanks, year review, reviews, thanks, review review, years review, unbox, great",
+        "representative_docs": [
+            "That was a great review.",
+            "great review!",
+            "This was a great review"
+        ]
+    },
+    {
+        "topic_label": "57_animations_graphics_animation_whoever",
+        "keywords": "animations, graphics, animation, whoever, video animations, animations graphics, info graphics, team, awesome, great",
+        "representative_docs": [
+            "Outstanding graphics in this video! Love the animations.",
+            "The animations and graphics are next level.",
+            "The animations and graphics in this video are great\ud83e\udef6\ud83c\udffb"
+        ]
+    },
+    {
+        "topic_label": "58_ad_ads_ad transition_commercials",
+        "keywords": "ad, ads, ad transition, commercials, ad read, seamless, transition, adverts, smooth, advertisement",
+        "representative_docs": [
+            "Great ad \ud83d\udc4c",
+            "That was the most seamless ad transition ever!",
+            "That ad read was slick, I didn't even notice it was an ad until half way in."
+        ]
+    },
+    {
+        "topic_label": "59_sponsor_sponsored_sponsorship_integration",
+        "keywords": "sponsor, sponsored, sponsorship, integration, smooth, smoothest sponsor, smoothest, ad, ever seen, seen",
+        "representative_docs": [
+            "They way you added in the sponsor was so seamless I think all sponsor adds should be like that",
+            "Dam that sponsor was slick i didn\u2019t even realize until you said thanks for the sponsor",
+            "smoothest sponsor i have seen"
+        ]
+    },
+    {
+        "topic_label": "60_musk_elon musk_elon_anything",
+        "keywords": "musk, elon musk, elon, anything, accidents, clown, accidentally, musk elon, anything elon, interviewed elon",
+        "representative_docs": [
+            "Elon musk owes u for this \ud83d\udcaf\ud83d\udc4c\ud83c\udffe",
+            "Only Elon Musk would like this video",
+            "But it's Elon Musk."
+        ]
+    },
+    {
+        "topic_label": "61_maintenance_costs_maintenance costs_cleaning",
+        "keywords": "maintenance, costs, maintenance costs, cleaning, maintenance cost, costs maintenance, cost, maintenance cleaning, equipment, 10 years",
+        "representative_docs": [
+            "What about maintenance costs?",
+            "What about Maintenance $$$???",
+            "WHAT ABOUT MAINTENANCE???"
+        ]
+    },
+    {
+        "topic_label": "62_cost_install_installation_much cost",
+        "keywords": "cost, install, installation, much cost, much, price, much system, total, system, install cost",
+        "representative_docs": [
+            "just watch out if you're in the US because installers will absolutely gouge you on the prices. literally 10-15x what it should actually cost based on equipment alone. Assuming you know someone in the business that can put it in for you (or you can do it yourself), you can pay a fraction (like 10% or lower) of what most contractors will quote you for a system.",
+            "@@aufkeinsten7883 N0xietysaid it was probably that cost, not me. My point was that the video is not telling the full cost of installing expensive system (like adding in the cost of paying more house insurance because of the install). The whole video is so idealistic that it lies by omission. Sorry, but ain't nobody gonna break even putting in a system like that!",
+            "Pretty steep install price. Even with some outrageous Texas power bills (in the $600/month) would take 14 years before you made back your investment -- and that $600 is during a heat wave summer too. Also that $92k install price probably doesnt cover the inevitable maintenance and hardware failures over that time either. So what, an additional 15 to 20k? I loved the idea up until that price point. Hmm, gotta think smaller I guess or different company. Maybe Anker."
+        ]
+    },
+    {
+        "topic_label": "63_tax_tax credit_credit_tax credits",
+        "keywords": "tax, tax credit, credit, tax credits, rich, poor, credits, taxes, federal, 30k",
+        "representative_docs": [
+            "\u200b\u200b@@AnimeBeefRandoms 1. Not socialist 2. I work at a non profit funded by donations from private donors, utilities interested in these policy questions, and research foundations. None of my work is funded by taxpayer money. Additionally the work is independent of the donors and is actually heavily associated with more centerist politics because of how heavily my work relies on economics. We are data driven not politics driven. 3. I have not endorsed any political perspective in this comment and was just excited to see the data in the video and think about the levels of detail in analysis that can be added from watching this video . I encourage you to be more thoughtful and not immediately jump to conclusions here. I'm curious what you'd think would be a better policy framework because frankly subsidies are imperfect and cost inefficient. They only were passed because of their political viability to not worsen inflation. New ideas are crucial for decarbonization and they shouldn't be tied up in cultural war or partisan politics.",
+            "The tax credit is retroactive I had the same issue were only got I think it was 22% but you\u2019re able to work with your accountant and you can get the other 6% back in your taxes. This is what we did this past year so I think you may have up to three years to collect that so you may want to consider talking to your tax person to get That extra 6% back. Also, remember that this is a tax credit so if you exhaust your entire credit for the year, it doesn\u2019t roll over but there\u2019s a certain amount that can only be used as a credit year to year and you have I believe 5 to 10 years to use the credit so if you get back to 6% and use it in the one year, you may not be able to use all of it it may carry over to the next year until you can. I think somewhere around three to $4000 year over year",
+            "Tax credits are literally a poor man's tax. The poor pay for the rich to install new tech. When the tech because more mainstream, the tax credits lower and the middle class starts getting the credits. When the poor can afford, the credits go away and the poor ended up paying the taxes to the government and subsidizing the rich..."
+        ]
+    },
+    {
+        "topic_label": "64_elon_elon money_money elon_elon retweeted",
+        "keywords": "elon, elon money, money elon, elon retweeted, retweeted, like elon, elons, money, sure elon, buddy elon",
+        "representative_docs": [
+            "Seems any part of the company Elon doesn't have his grubby hands on make decent products... RIP cybertruck. You never had a chance since Elon was hands on.",
+            "Paid by Elon?",
+            "Don't give Elon money"
+        ]
+    },
+    {
+        "topic_label": "65_clean_cleaning_dirt_dust",
+        "keywords": "clean, cleaning, dirt, dust, clean roof, cleaned, panels, need clean, rain, roof",
+        "representative_docs": [
+            "Hello I have 2 questions can we possibly get an update and question to how are you able to clean the panels after dirt and grime from the rain",
+            "How often do you need to clean the surface of the solar tiles? Did you notice any decrease in performance because of dirt or after a \"dirt\"/sandy rain?? Just rain is enough to keep the tiles clean?? Or solar surface doesn't get dirty because it's from \"special\" material??",
+            "Curious if there are any maintenance tasks for your solar tile system like... occasional cleaning of the tile surfaces to maintain optimal solar absorption ability of the tiles. I know someone who works for a utility and their solar farms require frequent panel cleaning. Pollen, dust, pollutants, etc. build up at times and not always self cleaning with rain."
+        ]
+    },
+    {
+        "topic_label": "66_thunder_thunder snow_snow_thundersnow",
+        "keywords": "thunder, thunder snow, snow, thundersnow, snow storm, storm, thing, fun fact, snowstorm, get thunder",
+        "representative_docs": [
+            "Thunder in a snow storm\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "Is that thunder??...in a snow storm?",
+            "And there IS thunder in a snow storm! :)"
+        ]
+    },
+    {
+        "topic_label": "67_cry_real_whatever reason_needed ooo",
+        "keywords": "cry, real, whatever reason, needed ooo, power yooooo, haha nice, harder real, wait spell, please youtooz, plan clean",
+        "representative_docs": [
+            "Cry about it.",
+            "Real spill all the way thru\ud83d\udd25",
+            "Same thing, cry somewhere else"
+        ]
+    },
+    {
+        "topic_label": "68_69_69 year_75 12_75",
+        "keywords": "69, 69 year, 75 12, 75, nice, 12, year nice, 69 dollars, paid 69, year",
+        "representative_docs": [
+            "5.75 * 12(months) = $69",
+            "$69 for the year.. nice",
+            "$5.75*12=$69/year. Nice."
+        ]
+    },
+    {
+        "topic_label": "69_video thanks_video thank_thanks_video",
+        "keywords": "video thanks, video thank, thanks, video, great video, thank, thank great, great, excellent video, excellent",
+        "representative_docs": [
+            "Great video thanks",
+            "Great video! Thanks!",
+            "great video. thanks"
+        ]
+    },
+    {
+        "topic_label": "70_house_18_move_buy house",
+        "keywords": "house, 18, move, buy house, need house, home, house joke, homeowner, buy, live",
+        "representative_docs": [
+            "@@OmniCode786depends on where you live. Rural Kentucky? Yes, you can have a house with the right job at 18. Suburb of a major metropolitan area?? Lol!!",
+            "Literally just googled these yesterday wondering where they went, sadly I\u2019m not a home owner so it doesn\u2019t affect me yet, and the market is screwed but I\u2019m hoping to become a home owner within the next 10 years!",
+            "\u200b@@OmniCode786an 18 year old with rich parents. There was one in Australia which was a 6-8 year old who managed to buy a house which cost $440,000 just by doing their chores from their CEO dad \ud83e\udd23"
+        ]
+    },
+    {
+        "topic_label": "71_paid electricity_paid_electricity year_electricity",
+        "keywords": "paid electricity, paid, electricity year, electricity, pay electricity, bill, year, pay, electric bill, well paid",
+        "representative_docs": [
+            "\u201cI have not paid for electricity in a year\u201d what an opening statement! \ud83d\ude0e",
+            "I have not paid for electricity in a year \ud83d\ude02\ud83d\ude02",
+            "\u201cI haven\u2019t paid for electricity on a year\u201d Because you paid for years worth of electricity upfront"
+        ]
+    },
+    {
+        "topic_label": "72_minutes_30 minutes_30_video",
+        "keywords": "minutes, 30 minutes, 30, video, 30min, watched, minute, 30 minute, minute video, minutes video",
+        "representative_docs": [
+            "i cannot understand how in 2 minutes can this video of 30 minutes have 1000 views",
+            "I didn't realize this video was 30 minutes until after I watched it",
+            "Finally a 30 minutes video on this channel, 30 minutes video's are cool!"
+        ]
+    },
+    {
+        "topic_label": "73_shirt_nice shirt_logo_nice",
+        "keywords": "shirt, nice shirt, logo, nice, love shirt, reddit, reddit shirt, shirt nice, appollo, shirt love",
+        "representative_docs": [
+            "Nice shirt, too",
+            "Nice shirt",
+            "That shirt \ud83d\udd25\ud83d\ude2d"
+        ]
+    },
+    {
+        "topic_label": "74_tour_house tour_house_tour house",
+        "keywords": "tour, house tour, house, tour house, studio, mkbhd house, see house, would love, love see, need house",
+        "representative_docs": [
+            "We need a house tour",
+            "Can we have a house tour?",
+            "You should do a house tour!"
+        ]
+    },
+    {
+        "topic_label": "75_cool_amazing_cool amazing_cool cool",
+        "keywords": "cool, amazing, cool amazing, cool cool, dope, af amazing, amazing cool, thats cool, amazing amazing, way cool",
+        "representative_docs": [
+            "This is just so cool",
+            "This is cool",
+            "This is too cool"
+        ]
+    },
+    {
+        "topic_label": "76_video_loved video_loved_video loved",
+        "keywords": "video, loved video, loved, video loved, video video, lot video, love video, video love, great video, video absolutely",
+        "representative_docs": [
+            "Loved the Video!",
+            "Loved this video!",
+            "Loved the video"
+        ]
+    },
+    {
+        "topic_label": "77_powerwall_power wall_years_10 years",
+        "keywords": "powerwall, power wall, years, 10 years, wall, 10, last, capacity, powerwalls, warranty",
+        "representative_docs": [
+            "@@YolandaPlayne The 10 year warranty guarantees that the power wall will have at LEAST 80% of its original capacity left after 10 years of use. so you don't have to replace it after 10 years, it just will have a little less capacity as it gets older. it would probably take 40 years or more to get to the point where it wont work at all.",
+            "Hi the PowerWall warranty is 10yrs @ 70% of capacity so will last a lot longer than 10yrs but you may have less usable capacity. We have had ours 2yrs and not noticed any degradation. Plus the newest PowerWall use LFP batteries that should last 2-3x longer than the original units, but still only 10yr warranty!\ud83d\udc4d",
+            "Great video. Might call it a solar powered system or a solar generator system. The power walls have a 10 year warranty. You can probably expect to see a degradation in capacity/capability after a period of time. Batteries will degrade over time. I would probably buy an extra power wall after about 4-6 years and then be prepared to replace the original power walls after the 10 years perhaps as they begin to fail."
+        ]
+    },
+    {
+        "topic_label": "78_video great_great video_great_video",
+        "keywords": "video great, great video, great, video, awesome video, video wow, awesome, ty nice, video pls, reporting awesome",
+        "representative_docs": [
+            "Great video",
+            "Great video ........",
+            "Great video!"
+        ]
+    },
+    {
+        "topic_label": "79_value_house_value house_home",
+        "keywords": "value, house, value house, home, value home, sell, solar, solar system, sell house, panels",
+        "representative_docs": [
+            "This is an excellent review, thanks. One angle I've been concerned about is does a solar system add value to the house? Have you done a calculation about this on your house? In other words, if you were to sell your house ten years from now, would you be able to get the value of the solar system into the sales price? Do you believe your solar investment has increased the value of your house? A review of this question might be good for a future video.",
+            "A very important part of the money question I think was overlooked is home value added to the house getting the tesla solar setup installed. When you sale your house you are not taking those panels with you specially the tesla tile ones lol so you will get some of the money you spent on them back when you sell meaning you don't have to wait 10 years to sell your house to break even on the panels you bought. Even if you don't sell the house you can tap into the value you added to the home with the solar panels later with something like a cash out refinance where you pull equity out of the home, how much more it adds to the rent value if you move but keep the house etc.",
+            "So one criticism, and to be fair it\u2019s an easy thing to forget. You mentioned how long it takes to pay for the solar system in electricity savings, but you neglected the fact that if you installed a $120k solar system to your house, the value of your house has increased, so you don\u2019t need to pay back $120k to pay off the solar system, you need to subtract off the appraised value that it added to your home. And assuming you used a loan to get the 120k, you need to pay back 100% of the interest accrued over the lifetime of that loan. People tend to forget that if you buy a house you aren\u2019t losing money, you are storing that money in an asset that is (usually) increasing in value. If you buy a car, car\u2019s depreciate, you lose money. A house appreciates. So to recap, to find out how much you\u2019d need to save to pay back, you\u2019d need an appraisal of your house done before and after installation, subtract the difference to find out the added value of the solar system, subtract that value from the cost of the system, then add the lifetime interest paid, and that will give you an estimate of how long to pay it back. Only an estimate cause the housing market can change, and so the perceived value of different aspects of your house will change over time. The system may become more valuable and pay for itself without the need to save money on your electric bill, or perhaps if the installation of these systems gets drastically cheaper and more common, your system becomes less valuable and you need to save more to recoup the costs."
+        ]
+    },
+    {
+        "topic_label": "80_charging_car_charge_car charging",
+        "keywords": "charging, car, charge, car charging, charging car, charge car, station, car work, charging station, home",
+        "representative_docs": [
+            "He's charging his car from home",
+            "What about charging your car?",
+            "car charging"
+        ]
+    },
+    {
+        "topic_label": "81_youtube_youtube money_afford_lol",
+        "keywords": "youtube, youtube money, afford, lol, money, video, watching, youtubers, channel, oyu",
+        "representative_docs": [
+            "YouTube money is great, that\u2019s all I got from this video.",
+            "everything is free for you Marques cause you make alot of money through Youtube duh. The average working class can't never afford none of this but I do have fun watching videos of things i'll never be able to afford LOL!!!",
+            "youtube video for people with youtube money"
+        ]
+    },
+    {
+        "topic_label": "82_thanks_thanks thanks_thank thanks_thank thank",
+        "keywords": "thanks, thanks thanks, thank thanks, thank thank, thank, thanks thank, nice thanks, thanks really, nice, excellent thx",
+        "representative_docs": [
+            "Thanks!",
+            "thanks",
+            "Thanks."
+        ]
+    },
+    {
+        "topic_label": "83_content_great content_amazing content_quality content",
+        "keywords": "content, great content, amazing content, quality content, content thank, good content, amazing, kind content, content right, content best",
+        "representative_docs": [
+            "Great content",
+            "Great content!!!",
+            "Great content!"
+        ]
+    },
+    {
+        "topic_label": "84_10k_year electricity_10k electricity_10k year",
+        "keywords": "10k, year electricity, 10k electricity, 10k year, year, electricity, 10 000, 000 year, 9k, insane",
+        "representative_docs": [
+            "Are people actually paying 10k a year for electricity?",
+            "10k a year in electricity!? \ud83d\ude2e",
+            "$10k a year electricity is crazy"
+        ]
+    },
+    {
+        "topic_label": "85_bidirectional_charging_bidirectional charging_directional",
+        "keywords": "bidirectional, charging, bidirectional charging, directional, bi directional, bi, directional charging, evs, support, tesla",
+        "representative_docs": [
+            "In your conclusion at 28:44, bidirectional charging it is already a current thing (but still very new). I\u2019m currently studying Architecture in Australia and got invited out to Japan to study there, and they had designed a house in Hokkaido that purely runs off an EV Car Battery, it uses the lost electricity it may lose while idle to power the house so zero electricity is actually wasted overall, it\u2019s a new technology that was being tested but it was super cool to see that it is possible. Plus, my goal is to develop future sustainable homes for Australia, so it was super cool to see and learn about. wish me luck haha",
+            "I hope bidirectional charging won't come any time soon. And paradoxically the reason actually is FREE charging at work. Yeah, you would say 'heck yeah, I'll charge at work for free every day and use just as much of that charge for my home to make it back to work the next day\". But if that ever happened then I guess that would mark the end of free charging at work, period.",
+            "Good info. Top quality content, creation and delivery. TESLA currently doesn't support bidirectional charging. Their system will handle this capability easily when they're ready to cannibalize powerwall sales. The timing is everything as this cannibalization will free cells for battery grid storage and requirements for new EVs. The implementation of Ford/SunRun bidirectional charging installations are abysmal. Hopefully the pilot GM truck bidirectional charging goes well and ends up mainstream. Ultimately all manufacturers will move to bidirectional (V2H) although I don't see V2G happening until the federal/state governments and monopolistic utilities figure out how they will profit. Again, TESLA will be the leader, innovator and profit winner."
+        ]
+    },
+    {
+        "topic_label": "86_powerwall_pw3_yet_released",
+        "keywords": "powerwall, pw3, yet, released, pw2, released yet, powerwall powerwall, powerwall 2s, 3s, 2s",
+        "representative_docs": [
+            "Marques you keep referring to your powerwall as powerwall 3 but there's not powerwall 3 yet is coming, but you were probably referring to powerwall x 3 that you have, great content as always, love your videos \ud83c\udf89\ud83c\udf89\ud83c\udf89",
+            "You have a Powerwall 2. Powerwall 3 isn't even out yet.",
+            "I think you meant Powerwall 2 because Powerwall 3 wasn't released yet"
+        ]
+    },
+    {
+        "topic_label": "87_future_living_2023_guy living",
+        "keywords": "future, living, 2023, guy living, living future, jesus, life, accept, jesus christ, christ",
+        "representative_docs": [
+            "this guy is living in the future \ud83d\ude43",
+            "This guy is living in the future. \ud83d\udc4f\ud83d\udc4f",
+            "----- TIME HAS RUN OUT !! John 3:16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life. Don't ignore this message... REPENT NOW !! TRUST that God raised Him from the dead !! By FAITH accept JESUS's blood alone as payment for your sins unto Salvation, to escape what's about to happen !!"
+        ]
+    },
+    {
+        "topic_label": "88_game theory_theory_game_theory shirt",
+        "keywords": "game theory, theory, game, theory shirt, shirt, shirt game, merch, theory merch, wearing, wearing game",
+        "representative_docs": [
+            "is that a game theory shirt",
+            "Game theory shirt?",
+            "No the game theory shirt (:"
+        ]
+    },
+    {
+        "topic_label": "89_microwave_toaster_microwave toaster_microwaves",
+        "keywords": "microwave, toaster, microwave toaster, microwaves, 1000w, surprise, surprising, toaster microwave, spikes, 1000",
+        "representative_docs": [
+            "Microwave and toaster big spikes????? \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02. Marques you have got to be kidding?",
+            "\"Surprisingly\" the microwave and toaster draw a lot of power? What are you talking about dude? How did you think a toaster worked?",
+            "How so was the microwave and the toaster surprising ? It states clearly on the devices how much they pull also for a toaster it is generally using your electricity inefficiently to create heat through resistance"
+        ]
+    },
+    {
+        "topic_label": "90_scam_solar scam_solar_solar company",
+        "keywords": "scam, solar scam, solar, solar company, door, salesman, solar salesman, companies, show, selling solar",
+        "representative_docs": [
+            "The only ones that want you to think solar as a concept is a scam are power companies hoping you stay dependent on them. However, you have to be really careful with the solar installation companies. There are assholes in every industry.",
+            "Solar isn't a scam. The scams are the fkn solar salesman that inflate the cost and usually don't know anything about govt programs\ud83d\ude02",
+            "Very well done video, I've been meaning to take the plunge into solar. But there are so many scams and scammers in the solar game that it's kind of a turn-off to me. Tesla seems to be the exception, but I've also heard bad things about them. The lack of communication and their inability to fix things when it goes wrong. Perhaps they were very careful dealing with you, Because of who you are. But their reputation in the solar game us not good."
+        ]
+    },
+    {
+        "topic_label": "91_roof_uk_solar roof_panels",
+        "keywords": "roof, uk, solar roof, panels, 19kw, around, kw, 29kw, solar, panel",
+        "representative_docs": [
+            "260kwh in a day! That's great. Got some old (12 years) panels on my roof here in the UK, on average they produce 8kwh a day (16+ in summer). Thankfully they were on the house when we got it, so were free, plus no air con, IC car, and the house has a baseline of only like 150w. Even with the feeble kwh, it does really help knock a decent chunk off the electric bill. So worth it/ good? Yes without question, BUT like said in this video, getting a solar setup is expensive especially for a full solar roof. Really need find a way to make solar panels cheaper.",
+            "Wait... Im curious, the 29kW array Im guessing they put tiles only on the sections of roof that get sun. Keep in mind, the panel size is STC (standard testing condition). In reality, certain parts of the roof get more sun vs other parts and as factoring in shadow cast etc, Im curious if higher efficiency cells strategically positioned on the roof (the 19kV -still huge vs most solar installs) would produce ~1/3rd less or would it be like ~1/4 less. As for the $9.2k annual bill... WTF? My annual bill (no EV) is $1.5k. Like I heard US rates are crazy expensive due to profit-driven utilities, but wow!",
+            "I don't know how things work in USA, but in Italy for 120K i can get a new house with a solar roof, those prices are crazy. A generic 5 kW solar roof in Italy it's around 3K euro, and you need around 7 years to get back the investment. 5 kW it's more than enough for a medium family in Italy considering you can't pull more than 6 kW from the grid on single phase. One Tesla Powerwall it's around 15K euro and worth all the money. A mega build, if you have big house with appliance like, pool, big AC, big electric car, etc, can be a 15 kW solar roof with 3 phase electric and 3 Powewall and we are around 60K Euro. Anyway, i would avoid Solar roof like that, generic panel are the way for a lot of reasons, lower price, easy installation, more wattage for cm2, more efficiency, heat dissipation is a big factor, that's why solar panel are generally not integrated on the roof."
+        ]
+    },
+    {
+        "topic_label": "92_marques_marques uses_uses_average",
+        "keywords": "marques, marques uses, uses, average, using, energy marques, insulation, use, kwh, marques home",
+        "representative_docs": [
+            "Most US homes have an attic space between the ceiling and the roofline where insulation sits on top of the ceiling either as batts or loose-fill that is blown in. The roof surface shouldn't make a difference in the house insulation because it's not part of the envelope for typical homes. Some newer homes have spray foam insulation where the roof surface could make a difference. I also live in the US, charge an EV at home, and use about 1/6 or 1/7th of the energy (8,650 Kwh) that Marques is using annually.",
+            "@@JungledG While absolutely true, Marques does not represent in any way the typical American, he's definitely a 1%er. On average Americans use about 900kWh a month, but that number varies greatly from place to place where as hotter & humid states (Florida, Texas, Louisiana) tend to use a few hundred more kWh, where states like California & Hawaii use a few hundred less kWh than that average (and maybe not so ironically those two states have the highest electrical rates too, where as the larger users have lower electrical rates) That said maybe his house also doubles as a studio, so perhaps there's crazy electrical usage there.",
+            "It's interesting to me that nobody is commenting on just how much energy Marques is using each month! I with he would've said the square footage of the house for reference. Personally in a 2-person home that is 70 years old and 1,500 sqft (finished, but with a 950 sqft unfinished basement) in the KC metro area, I used 8,625 Kwh in the last year and that includes charging an EV which drove 10,000 miles. That's about 1/6th of the energy that Marques' home consumed in the same time period. If you want a much more efficient payback for your house, please upgrade your insulation before getting soler. We paid $2,800 after credits for insulation in the attic, basement rim joists, and insulating a crawlspace under an addition, which has dropped our energy consumption by about 25%. We don't do anything crazy to conserve energy: We dry our clothes in an electric dryer, and set the house to 72 degrees in the summer, outside of peak hours where it's set to 77. Our AC runs on 2.2KW, so it's either a lot smaller or more efficient than Marques'. Marques, please make sure your house has enough insulation. That would also help if you switch to a heat pump and electric water heating."
+        ]
+    },
+    {
+        "topic_label": "93_fire_firefighters_burn_catching fire",
+        "keywords": "fire, firefighters, burn, catching fire, fires, catching, roofs, firefighters letting, heard firefighters, fire incidents",
+        "representative_docs": [
+            "I have heard that firefighters are letting burn solar roofs completely during fire incidents. They are afraid of still active electricity on the roof. Did you consider also this factor, or you just have a serious insurance and rely on it? Thanks for your opinion!",
+            "I have heard that firefighters are letting burn solar roofs completely during fire incidents. They are afraid of still active electricity on the roof. Did you consider also this factor, or you just have a serious insurance and rely on it? Thanks for your opinion!",
+            "I have heard that firefighters are letting burn solar roofs completely during fire incidents. They are afraid of still active electricity on the roof. Did you consider also this factor, or you just have a serious insurance and rely on it? Thanks for your opinion!"
+        ]
+    },
+    {
+        "topic_label": "94_snow_winter_snowfall_inches",
+        "keywords": "snow, winter, snowfall, inches, canada snow, snow talk, amount snowfall, talk snow, months snow, snow snow",
+        "representative_docs": [
+            "What do you do during the snow ?",
+            "What about SNOW ?",
+            "@@fetB People ignore? That's an ignorant statement. More independent? Nope, not at all. There are 3.797 million mi\u00b2 in the US. How many solar panels can China produce to cover 82 million homes? Most homes 50 miles north of [41 degrees Latitude] MKBHD's home will be frozen in a normal winter. Marques didn't mention that last winter was one of the warmest winters with the least amount of snowfall in the past 30 years. We had less than 8 inches of snow last winter. Contrast that to the normal snowfall total of 37+ inches snowfall. Within the last 8 years there have been two seasons where the snowfall totals were 72+ inches and 60+ inches. Things are rosy until they're not. It's not when things are optimum that relying on a single source for survival is called to task, it's when things go sideways that turns it into a matter of life or death. Even MKBHD uses natural gas in the winter. Because dying is overrated."
+        ]
+    },
+    {
+        "topic_label": "95_zero_bill_dollar_zero dollar",
+        "keywords": "zero, bill, dollar, zero dollar, bills, dollar bill, bill zero, sreejithprakash13s36don, never ask, ask know",
+        "representative_docs": [
+            "Zero dollar bill but I paid 100K to install solar roof.........................which is Like 60 years of Hyrdo Bill......................",
+            "@@sreejithprakash13s36don\u2019t fall for this guys, your bill will never be zero. Never! Ask me how I know! Plus you\u2019ll end up with a 30-year contract.",
+            "@@sreejithprakash13s36don\u2019t fall for this guys, your bill will never be zero. Never! Ask me how I know! Plus you\u2019ll end up with a 30-year contract."
+        ]
+    },
+    {
+        "topic_label": "96_rip apollo_rip_apollo rip_apollo",
+        "keywords": "rip apollo, rip, apollo rip, apollo, apollo missed, blue rip, missed rip, reddit, blue, fine rip",
+        "representative_docs": [
+            "Rip Apollo",
+            "RIP Apollo",
+            "RIP Apollo"
+        ]
+    },
+    {
+        "topic_label": "97_dryer_washing_laundry_clothes",
+        "keywords": "dryer, washing, laundry, clothes, washing machine, machine, washer dryer, washer, oven, dryers",
+        "representative_docs": [
+            "What about the dryer?",
+            "You don\u2019t have a dryer?",
+            "Also, we\u2019re a bit complacent with our energy because we have so much of it. So many appliances like refrigeration, laundry machines, microwaves, are designed to be larger and more powerful. Bigger/ faster isn\u2019t always better obviously, but it\u2019s a good way to sell something. And I can tell you as someone who has spent a lot of time back and forth, one thing I always miss is a clothes dryer that actually dries my clothes. So yeah, it\u2019s an ethical challenge."
+        ]
+    },
+    {
+        "topic_label": "98_power wall_wall_power_powerwall",
+        "keywords": "power wall, wall, power, powerwall, grid, power walls, walls, powerwalls, would, outages",
+        "representative_docs": [
+            "So if in the end the power wall didn't get you to your goal of fully off grid year round, would it be better to omit it and decrease the ROI time? The net metering credit you built up is what ultimately allowed you to avoid energy bills, so what difference does 40kwh going to the battery vs the grid make? At that point all the power wall did was prevent outages which seems like a minor inconvenience for their cost.",
+            "In reality, you are actually only prepaying for the electricity that you use. If your $9600 a year for actual electricity billed by use and this equals your payments, you need to factor in the interest that you are paying for your system. If you have true net metering like New York, then you don\u2019t need to cycle your batteries and just keep them as backup because there is no cost savings and actually more wear to cycle your Powerwalls. And before everyone jumps on this, we have a smaller system and numbers don\u2019t change \u2026. I know what our monthly flat payment plan is and can easily balance it against my payments. Since we have net metering here, whether I charge up and discharge my two Powerwalls is mute because if I don\u2019t discharge the Powerwalls and send all excess power to the grid, when I draw at night it\u2019s the amount that I would have used to recharge the batteries of I had drawn that same power from them instead of the grid. So cycling the batteries will actually shorten their life vs keeping them as a backup source, which is what I wanted. Oh and we have all ac\u2019s as well as an Inground pool that draws approx 2200 watts per hour and runs for 12 hours a day from spring till fall. Even as green tech, the recycle and damage caused by sourcing the product is immense. We did it to help alleviate the kids spending since we will pay off the system for them and when they live here the system would be 100% cost free except for maintenance and repairs at that point.",
+            "@@crelliseng The Power Wall is a buffer between power from the panels and power from the grid. Ideally during the day you will generate more power from the panels than you need, the excess charges the Power Wall and exports to the grid. Then when the sun goes down you draw power from the Power Wall before drawing from the grid, so you reduce your grid usage which is where the ROI on the Power Wall comes in. Yes, it is still there if you have a power outage, but that's not the primary purpose for it. Now, you could mean that because you're charging the Power Wall before exporting to the grid the effect of the Power Wall is net 0, but this would only be true with a few power providers. Most of the time what you export is worth less than what you import, the credits are less than what you export, or you will lose outstanding credit after a period of time so it is more useful to have a bank full of power than extra credit that disappears."
+        ]
+    },
+    {
+        "topic_label": "99_srecs_srec_nj_jersey",
+        "keywords": "srecs, srec, nj, jersey, srecs nj, nj get, new jersey, sell, mwh, might marketplace",
+        "representative_docs": [
+            "Sadly, SRECs in New Jersey appear to have been sunsetted (pun intended), so there might not be a marketplace in his state to sell them anymore.",
+            "Hey, I\u2019m from NJ too! Don\u2019t you get the money from SRECs? I\u2019ve Solar from Tesla for last 7 years and I\u2019ve been getting SREC that pretty much covers my loan for Solar. One SREC is generated for 1 Kw which is sold in the market for approximately $200!",
+            "If you live in New Jersey, you can sell your SREC. You can check how much is an srec worth in NJ on google . Every 1 MWh your system generated can earn 1 SREC. Make video about how to register your system to sell the SREC. It\u2019s over $200 per SREC in NJ"
+        ]
+    },
+    {
+        "topic_label": "100_grid grid_grid_please 24_24 hour",
+        "keywords": "grid grid, grid, please 24, 24 hour, hour grid, grid challenge, kids, challenge, kids kids, go grid",
+        "representative_docs": [
+            "We off the grid grid grid this for my kids kids",
+            "We off the grid grid grid",
+            "We off the grid grid grid\ud83d\udde3\ufe0f\ud83d\udde3\ufe0f"
+        ]
+    },
+    {
+        "topic_label": "101_fridge_refrigerator_freezer_refrigerator freezer",
+        "keywords": "fridge, refrigerator, freezer, refrigerator freezer, power refrigerator, draw, much power, watts, refrigerator fridge, freezer would",
+        "representative_docs": [
+            "he doesnt have a refrigerator/freezer? sure, if its already cold and its well designed the fridge can draw very litle energy. the fridge can rival an AC on surge/peak draw if you have lots of people opening and closing the fridge. 6 dollars to maintain the grid, that's an ok price.",
+            "What about the fridge?",
+            "what about a fridge??"
+        ]
+    },
+    {
+        "topic_label": "102_ticket_claim_ticket claim_within",
+        "keywords": "ticket, claim, ticket claim, within, claim within, within hours, day ticket, within day, hour ticket, claimed",
+        "representative_docs": [
+            "Claim your here within 2 hours ticket",
+            "Claim your \u201chere within an hour\u201d ticket",
+            "Claim your \u201chere within an hour\u201d ticket"
+        ]
+    },
+    {
+        "topic_label": "103_charge_car_charging_battery",
+        "keywords": "charge, car, charging, battery, night, power, vehicle, grid, using, tues",
+        "representative_docs": [
+            "So, payback could be shortened significantly w/o affecting reliability by having 1 powerwall battery instead of 3. And could be shortened further, with the same reliability as neighbors, with no batteries. The majority of the power appears to go to recharging the car. The actual home operation, even in AC season, is less. (Fyi - try a heat pump - it\u2019s essentially a bidirectional AC unit but you\u2019d no longer need a gas powered furnace where you live) Using the grid as storage, which your home already does at times, would alleviate the need for local storage. Using your car as storage would also serve to reduce the benefit of the house batteries. Instead of charging it at midnight charge it as soon as you get home. I\u2019m afraid this also depends on how utilities charge. Where we are the actual cost of electricity is relatively cheap, but the infrastructure costs to get/take that electricity are fixed costs and about 2/3\u2019s of costs. Given that the two big power demands are your car and AC\u2026 would extra insulation and passive cooling improvements to the home drop your power use (shortening payback period).",
+            "A thing that Alec's been doing in the mid-west is having his hot water tank power off _intermittently._ The way he explained it; he keeps his house _freezing_ cold in the morning treating the loss of energy as an inverse battery that loses potential across the day, and he treats the hot water tank as a battery that is storing heat energy for release as hot water. With larger capacity, you have larger potential use of that (lacking) energy. Man's pretty smart. Another smarty-pants move would be to keep on-hand excess energy for things like handsets, tablets and (using more capable banks) PCs with USB-C charging as a means of consumer-friendly battery storage during the day, and this would actually be nice as part of an office job where you're using _somebody elsse's_ electricity so you can keep your packs topped and ready for a low-power situation. Your automobile (while it is running) would also be a neat mode of charging these packs _while charging your car_ with someone else's power. For the enthusiastic, proximity sensors can be attached to always-on products so when you want them on, but you're not in the room certain features (or the device itself) can be turned off. For a television where if you leave it on and walk out, that's load you can reduce simply by _not having the display on._ Likewise for PCs the monitor doesn't need power if you are not in the room. Overall you can get more than net-zero, but the more people who do net metreing, the less likely companies will be generous with their payment schemes _as a matter of necessity._ But also, _now_ is the time to get into batteries because the material resources for these big cells won't last forever. This can get into some problematic discussion of EVs but that's scope creep better left for another video.",
+            "Q? When you are charging your vehicle, are you using a 230V charging system, or a 120V charge? The reason I ask, is since you are only using 30% of you EV battery in winter (worse case) per day, you might be able to charge slower and still get a full charge in a night time, but not need to be on the grid. The slower charge uses half the voltage, at a lower current. The lower power requirement might be something your solar system (power walls included) can handle without a need to be \"on the grid\". As long as the necessary charge is attained in the time frame given, what does it matter. In otherwards, if you have a full 12 hour period to charge before you wake up to drive to work the next day (say you are home by 6 PM, and wont drive again until after 6 AM the next day), use the whole 12 hours at a lower charge wattage might be more cost effective (because this power might be available from your power wall, not needing extra power from the grid). Also, you don't necessarily need to charge to 100% each night... as long as you charge at least 20% each night from Monday through Friday, you'd still have a reserve of 30% remaining when you get home on Friday evening (from a 100% charge Monday morning) which could then be charged up over a full two days (48 hours) to get the vehicle back up to 100% for Monday again (assumes you only drive the car M-F and a worse case of 30% discharge in winter weather per day). Here's my math... please let me know if I'm incorrect on anything: Mon Start = 100% - 30% (Mon drive) = 70% + 20% (M-T charge) = 90% Tues Start = 90% - 30% (Tues drive) = 60% + 20% (T-W charge) = 80% Wed Start = 80% - 30% (Tues drive) = 50% + 20% (W-TH charge) = 70% Thurs Start = 70% - 30% (Tues drive) = 40% + 20% (TH-F charge) = 60% Fri Start = 60% - 30% (Tues drive) = 30% + 70% (F-M charge) = 100% * The above does make the assumption that you have the entire weekend of not using the vehicle and can charge the car up to 100%. It also assumes that at least 20% of the battery can be charged on a slower charge (120V) in at least a 12 hour period. This may vary depending on use and charge time. Thanks again for the video. I'm currently considering a whole home solar system myself, and although I don't currently have an EV, I might consider it at some point in the future, so I would like to understand all of this better (thanks for your help in my understanding this better)."
+        ]
+    },
+    {
+        "topic_label": "104_warranty_batteries warranty_batteries_warranty batteries",
+        "keywords": "warranty, batteries warranty, batteries, warranty batteries, battery, warranty period, battery 25, years warranty, 25, year warranty",
+        "representative_docs": [
+            "@@cbkenison or...untill the battery reaches the limit of its throughput warranty. For example, if a battery comes with a throughput warranty of 30 MWh (megawatt-hours), then the warranty is valid until you\u2019ve used up 30,000 kilowatt-hours of energy.",
+            "What about batteries warranty?",
+            "Also what are the conditions of the warranty? Always there are some strange clauses. Companies have warranty for batteries but usually they have a program that follows spikes in voltages and if you get one voltage spike in those 20 years it is probable that they can say ooh you had a voltge spike which damaged the batteries so warranty is void."
+        ]
+    },
+    {
+        "topic_label": "105_warranty_25_warrantied_25 years",
+        "keywords": "warranty, 25, warrantied, 25 years, panels, 25 year, year warranty, years, batteries, panels warrantied",
+        "representative_docs": [
+            "I want to clarify \"warranty\" on solar PV panels. The standard warranty on a PV panel is that they will still be operating at aleast 80% of original capacity at the 25 year mark. What that means is the typical PV panel will be generating solid figures for decades past the warranty expiry. If you install a system that peaks at 10kw output when new, you can still expect 8kw peak output after 25 years! There's this belief that at the 25 year mark you throw the panels away and start again which is erroneous. Also, that solar roof and battery setup would add at least what it cost you in value to the property.",
+            "@@XSquibX 25 years is for the Solar Panels and it is warrantied for degradation just like how batteries in Tesla is warrantied for. Battery pack and the electrical hardware is warrantied for less years than 25 years...",
+            "@@XSquibX 25 years is for the Solar Panels and it is warrantied for degradation just like how batteries in Tesla is warrantied for. Battery pack and the electrical hardware is warrantied for less years than 25 years..."
+        ]
+    },
+    {
+        "topic_label": "106_worth_worth worth_ripoff_years worth",
+        "keywords": "worth, worth worth, ripoff, years worth, useless, looks barely, lemme work, lmfao could, worth blm, reason worth",
+        "representative_docs": [
+            "So is it worth it?",
+            "Worth it",
+            "It\u2019s not worth it"
+        ]
+    },
+    {
+        "topic_label": "107_car_cars_solar panels_solar",
+        "keywords": "car, cars, solar panels, solar, car solar, panels, sun, cars solar, parked, better solar",
+        "representative_docs": [
+            "29:30 It\u2019s not going to be a solar array and a car battery. It\u2019s going to be a bunch of smaller batteries (which is essentially every battery already) that you can trade using just your hands between your car, your house, and some service provider that has swap stations along major roads.",
+            "They should be installing more solar canopies, which is basically putting solar panels above parking lots. It's just unutilized space right now, and aside from generating electricity without needing more land, you also keep cars parked underneath cool, which lessens how much electricity/gas the car has to use to cool the cabin.",
+            "A pedantic point: when you have a grid connected solar panel, even when the sun is shining, you are still pulling power from the grid. The electrons don't go from the solar panels to your stuff, the solar panels are just helping wiggle the electrons on the grid. So its fine to think of your car as being solar powered from your panels but really you are just helping make the grid a little more solar."
+        ]
+    },
+    {
+        "topic_label": "108_solar_solar future_argument_argument make",
+        "keywords": "solar, solar future, argument, argument make, horribly silly, silly argument, richardloftythat horribly, solar hope, hope realize, horribly",
+        "representative_docs": [
+            "OK\u2026 I\u2019m 60, a Dad and you drop a super tight total dad pun in the first two minutes. I swear to you it took me at least 30 seconds to get \u201c\u2026 Solar systems\u2026\u201d. Well played, sir. In my defense, I only woke up 10 minutes ago.",
+            "@@RichardLoftythat\u2019s a horribly silly argument to make against solar I hope you realize that\u2026..",
+            "@@RichardLoftythat\u2019s a horribly silly argument to make against solar I hope you realize that\u2026.."
+        ]
+    },
+    {
+        "topic_label": "109_square_square footage_footage_footage house",
+        "keywords": "square, square footage, footage, footage house, footage roof, many, big roof, roof, house, square ft",
+        "representative_docs": [
+            "What is your square footage of the house. Or do that matter?",
+            "How many square footage is your house?",
+            "What is the square footage of your house and roof?"
+        ]
+    },
+    {
+        "topic_label": "110_brownlee_marques brownlee_brown_markass brownlee",
+        "keywords": "brownlee, marques brownlee, brown, markass brownlee, markass, mark ass, ass, marques, brownie, brown lee",
+        "representative_docs": [
+            "Markass brownlee",
+            "Marques Brownlee",
+            "Mark ass brownlee \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02"
+        ]
+    },
+    {
+        "topic_label": "111_comment_comments_likes_commenting",
+        "keywords": "comment, comments, likes, commenting, algorithm, 000 comments, commenting algorithm, know comment, internet better, laughed internet",
+        "representative_docs": [
+            "Theres always one annoying patronising little comment about safety or the like, assuming that no one is intelligent enough to take that into account. Yawn.",
+            "Change the comment to \u201cyou\u2019ll never know why this comment got so many likes\u201d.",
+            "@davidwang1807 Yes, I have a question. \" I wouldn't because I don't feel it fits\" I didn't see this part in the dictionary. Do I need your permission to use the English language because your feelings are hurt? Probably the dumbest gatekeeping I've ever heard . \"Yes you can use that word in your comment, BuT I FeEl LikE ThErE iS a BeTtEr WorD. Go touch grass."
+        ]
+    }
+]
