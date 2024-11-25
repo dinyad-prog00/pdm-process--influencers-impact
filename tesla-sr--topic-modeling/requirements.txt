@@ -1,0 +1,8 @@
+google-api-python-client
+dotenv
+pandas
+langdetect
+emoji
+bertopic
+wordcloud
+nltk
